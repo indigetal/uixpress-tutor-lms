@@ -8,3 +8,8 @@ credentials.json
 .DS_Store
 .cache/
 node_modules/
+
+# Local workspace
+.cursor/
+memory-bank/
+references/

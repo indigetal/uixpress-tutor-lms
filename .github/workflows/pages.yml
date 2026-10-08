@@ -1,0 +1,42 @@
+name: Publish approved CSS
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Select ledger-approved CSS
+        run: |
+          set -euo pipefail
+          dist=design-system/dist
+          ledger=approval.md
+          out="${RUNNER_TEMP}/pages"
+          mkdir -p "$out"
+          : > "$out/.nojekyll"
+          n=0
+          if [[ -f "$ledger" ]]; then
+            while IFS= read -r name; do
+              [[ -f "$dist/$name" ]] || { echo "Missing $name" >&2; exit 1; }
+              cp "$dist/$name" "$out/$name"
+              n=$((n + 1))
+            done < <(grep -oE 'instructor-admin\.[0-9a-fA-F]+\.css' "$ledger" | sort -u)
+          fi
+          echo "Publishing $n CSS file(s)."
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ runner.temp }}/pages
+      - id: deployment
+        uses: actions/deploy-pages@v4
