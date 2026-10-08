@@ -1,0 +1,10 @@
+# Local-only secrets
+.env
+.env.*
+*.pem
+credentials.json
+
+# Caches
+.DS_Store
+.cache/
+node_modules/
