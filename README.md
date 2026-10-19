@@ -33,6 +33,19 @@ The export hides admin menu items not relevant to the instructor backend. Howeve
 
 `uixpress-settings.json` is the uiXpress settings import. The shell is turned off for all default roles except `tutor_instructor` but the site might have other roles that will need to be excluded. To do so, navigate to **uiXpress → Settings → General** and review the "Disable theme" setting. Site-specific, and theme-related settings are either not configured or left as defaults in order to allow site owners to complete those. The file also sets the dashboard and search post types appropriate for an instructor backend.
 
+## Download the import files
+
+1. Open [indigetal/uixpress-tutor-lms](https://github.com/indigetal/uixpress-tutor-lms).
+2. Open `uixpress-settings.json`. On the file page, use the download icon next to **Raw**. Save the file as `uixpress-settings.json`.
+3. Open `Instructor Backend Menu.json` and download it the same way. Keep the space in the file name.
+
+You can also download both files at once. On the repository page, choose **Code**, then **Download ZIP**, and use the two JSON files inside the archive.
+
+Direct links for the files on `main`:
+
+- [uixpress-settings.json](https://github.com/indigetal/uixpress-tutor-lms/raw/refs/heads/main/uixpress-settings.json)
+- [Instructor Backend Menu.json](https://github.com/indigetal/uixpress-tutor-lms/raw/refs/heads/main/Instructor%20Backend%20Menu.json)
+
 ## Import the settings
 
 1. In the WordPress admin, open **uiXpress → Settings**.
