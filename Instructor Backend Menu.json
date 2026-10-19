@@ -1,0 +1,2511 @@
+{
+  "menu_meta": {
+    "menu_items": [
+      {
+        "id": "menu-dashboard",
+        "custom": false,
+        "name": "Dashboard",
+        "url": "index.php",
+        "imageClasses": [
+          "wp-menu-image",
+          "dashicons-before",
+          "dashicons-dashboard"
+        ],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": true
+        },
+        "submenu": [
+          {
+            "id": "menu-dashboard-index.php",
+            "custom": false,
+            "name": "Home",
+            "url": "index.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-dashboard-update-core.php",
+            "custom": false,
+            "name": "Updates",
+            "url": "update-core.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-dashboard-tutor-setup",
+            "custom": false,
+            "name": "",
+            "url": "http://tutor-setup",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          }
+        ],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "toplevel_page_tutor-admin.php?page=tutor",
+        "custom": false,
+        "name": "Courses",
+        "url": "admin.php?page=tutor",
+        "imageClasses": [],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PHBhdGggZD0iTTEwLjAwMDMgNi40Mjg4NUMxMC41OTU2IDQuMDc5MTUgMTIuODQzNyAyLjg3OTM4IDE3LjczODQgMi44NTc0M0MxNy44MTY3IDIuODU3MTMgMTcuODk0MiAyLjg3MjMzIDE3Ljk2NjYgMi45MDIxM0MxOC4wMzg5IDIuOTMxOTQgMTguMTA0NiAyLjk3NTc4IDE4LjE2IDMuMDMxMTFDMTguMjE1MyAzLjA4NjQ0IDE4LjI1OTEgMy4xNTIxOCAxOC4yODg5IDMuMjI0NTNDMTguMzE4OCAzLjI5Njg4IDE4LjMzMzkgMy4zNzQ0MSAxOC4zMzM3IDMuNDUyNjZWMTQuMTY2OUMxOC4zMzM3IDE0LjMyNDggMTguMjcwOSAxNC40NzYyIDE4LjE1OTMgMTQuNTg3OEMxOC4wNDc3IDE0LjY5OTUgMTcuODk2MyAxNC43NjIyIDE3LjczODQgMTQuNzYyMkMxMi45NzY1IDE0Ljc2MjIgMTEuMTM2OSAxNS43MjI0IDEwLjAwMDMgMTcuMTQzMU0xMC4wMDAzIDYuNDI4ODVDOS40MDUwOSA0LjA3OTE1IDcuMTU2OTUgMi44NzkzOCAyLjI2MjIzIDIuODU3NDNDMi4xODM5OCAyLjg1NzEzIDIuMTA2NDUgMi44NzIzMyAyLjAzNDEgMi45MDIxM0MxLjk2MTc1IDIuOTMxOTQgMS44OTYwMSAyLjk3NTc4IDEuODQwNjggMy4wMzExMUMxLjc4NTM1IDMuMDg2NDQgMS43NDE1MSAzLjE1MjE4IDEuNzExNzEgMy4yMjQ1M0MxLjY4MTkgMy4yOTY4OCAxLjY2NjcgMy4zNzQ0MSAxLjY2NyAzLjQ1MjY2VjE0LjA5NTFDMS42NjcgMTQuNDYyNyAxLjg5NDY3IDE0Ljc2MjIgMi4yNjIyMyAxNC43NjIyQzcuMDI0MTQgMTQuNzYyMiA4Ljg3MDQ5IDE1LjcyOTQgMTAuMDAwMyAxNy4xNDMxTTEwLjAwMDMgNi40Mjg4NVYxNy4xNDMxIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIi8+PC9zdmc+",
+          "open_new": false,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "toplevel_page_tutor-admin.php?page=tutor_announcements",
+        "custom": false,
+        "name": "Announcements",
+        "url": "admin.php?page=tutor_announcements",
+        "imageClasses": [],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PHBhdGggZD0iTTEwLjkzNDIgMTEuODYyOFY1LjM2NTE4TTEwLjkzNDIgMTEuODYyOEwxNS4wNzgxIDE0LjY5NDlDMTUuMTUyMSAxNC43MzczIDE1LjIzNiAxNC43NTk1IDE1LjMyMTMgMTQuNzU5M0MxNS40MDY3IDE0Ljc1OTEgMTUuNDkwNCAxNC43MzY0IDE1LjU2NDMgMTQuNjkzN0MxNS42MzgxIDE0LjY1MDkgMTUuNjk5NSAxNC41ODk1IDE1Ljc0MjEgMTQuNTE1NkMxNS43ODQ4IDE0LjQ0MTcgMTUuODA3MyAxNC4zNTc5IDE1LjgwNzQgMTQuMjcyNlYyLjk1NTM4QzE1LjgwNzQgMi44Njk5OCAxNS43ODUgMi43ODYwNyAxNS43NDI0IDIuNzEyMDZDMTUuNjk5OCAyLjYzODA0IDE1LjYzODUgMi41NzY1MyAxNS41NjQ2IDIuNTMzNjdDMTUuNDkwOCAyLjQ5MDgxIDE1LjQwNjkgMi40NjgxMiAxNS4zMjE1IDIuNDY3ODdDMTUuMjM2MSAyLjQ2NzYxIDE1LjE1MjIgMi40ODk4IDE1LjA3ODEgMi41MzIyMkwxMC45MzQyIDUuMzY1MThNMTAuOTM0MiAxMS44NjI4SDUuMjQ4OE0xMC45MzQyIDUuMzY1MThINS4yNDg4QzQuMzg3MTcgNS4zNjUxOCAzLjU2MDgyIDUuNzA3NDYgMi45NTE1NSA2LjMxNjczQzIuMzQyMjggNi45MjYgMiA3Ljc1MjM0IDIgOC42MTM5OEMyIDkuNDc1NjEgMi4zNDIyOCAxMC4zMDIgMi45NTE1NSAxMC45MTEyQzMuNTYwODIgMTEuNTIwNSA0LjM4NzE3IDExLjg2MjggNS4yNDg4IDExLjg2MjhNNS4yNDg4IDExLjg2MjhMNS44NjM2NCAxNi4xNjc0QzUuOTI3NzkgMTYuNTg2MyA2LjE1NDYzIDE2Ljk2MjggNi40OTQ4NyAxNy4yMTUzQzYuODM1MTEgMTcuNDY3OCA3LjI2MTI0IDE3LjU3NTkgNy42ODA2OCAxNy41MTU5QzguMTAwMTIgMTcuNDU2IDguNDc4OTYgMTcuMjMzIDguNzM0ODkgMTYuODk1M0M4Ljk5MDgyIDE2LjU1NzcgOS4xMDMxNCAxNi4xMzI2IDkuMDQ3NDYgMTUuNzEyNkw4LjQ5NzYgMTEuODYyOEg1LjI0ODhaTTE1LjgwNzQgMTAuOTkxOEMxNy4wMTgzIDEwLjk5MTggMTggMTAuMDEwMSAxOCA4Ljc5OTIxQzE4IDcuNTg4MjcgMTcuMDE4MyA2LjYwNjYyIDE1LjgwNzQgNi42MDY2MiIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjEuMjUiIGZpbGw9Im5vbmUiLz48L3N2Zz4=",
+          "open_new": false,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "toplevel_page_tutor-admin.php?page=tutor_quiz_attempts",
+        "custom": false,
+        "name": "Quiz Attempts",
+        "url": "admin.php?page=tutor_quiz_attempts",
+        "imageClasses": [],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PHBhdGggZD0iTTEyLjgyNDEgMy42NTg3M0MxMi45Mjg4IDMuNzYzNTkgMTMuMDU5NiAzLjgzODYxIDEzLjIwMzEgMy44NzYwNkMxMy4zNDY1IDMuOTEzNTIgMTMuNDk3MyAzLjkxMjA0IDEzLjYzOTkgMy44NzE4QzEzLjc4MjYgMy44MzE1NSAxMy45MTE5IDMuNzUzOTkgMTQuMDE0NiAzLjY0NzFDMTQuMTE3MyAzLjU0MDIyIDE0LjE4OTYgMy40MDc4OCAxNC4yMjQxIDMuMjYzNzNDMTQuMzEwNiAyLjkwMzY1IDE0LjQ5MTUgMi41NzMxMyAxNC43NDgyIDIuMzA2MjFDMTUuMDA0OSAyLjAzOTMgMTUuMzI4MSAxLjg0NTY0IDE1LjY4NDYgMS43NDUxN0MxNi4wNDEgMS42NDQ3IDE2LjQxNzggMS42NDEwNiAxNi43NzYxIDEuNzM0NjJDMTcuMTM0NCAxLjgyODE5IDE3LjQ2MTMgMi4wMTU1NyAxNy43MjMyIDIuMjc3NDhDMTcuOTg1IDIuNTM5MzggMTguMTcyMiAyLjg2NjM0IDE4LjI2NTcgMy4yMjQ2OUMxOC4zNTkxIDMuNTgzMDQgMTguMzU1NCAzLjk1OTgyIDE4LjI1NDggNC4zMTYyM0MxOC4xNTQyIDQuNjcyNjMgMTcuOTYwNCA0Ljk5NTc5IDE3LjY5MzQgNS4yNTI0MUMxNy40MjY0IDUuNTA5MDMgMTcuMDk1OSA1LjY4OTg1IDE2LjczNTcgNS43NzYyM0MxNi41OTE2IDUuODEwNzMgMTYuNDU5MyA1Ljg4MzA1IDE2LjM1MjQgNS45ODU3M0MxNi4yNDU1IDYuMDg4NDEgMTYuMTY3OSA2LjIxNzc1IDE2LjEyNzcgNi4zNjAzOUMxNi4wODc0IDYuNTAzMDQgMTYuMDg2IDYuNjUzODQgMTYuMTIzNCA2Ljc5NzI1QzE2LjE2MDkgNi45NDA2NiAxNi4yMzU5IDcuMDcxNDggMTYuMzQwNyA3LjE3NjIzTDE3Ljc0MzIgOC41Nzc5QzE3LjkzMDEgOC43NjQ3IDE4LjA3ODIgOC45ODY0NyAxOC4xNzkzIDkuMjMwNTRDMTguMjgwNCA5LjQ3NDYyIDE4LjMzMjUgOS43MzYyMSAxOC4zMzI1IDEwLjAwMDRDMTguMzMyNSAxMC4yNjQ2IDE4LjI4MDQgMTAuNTI2MiAxOC4xNzkzIDEwLjc3MDNDMTguMDc4MiAxMS4wMTQzIDE3LjkzMDEgMTEuMjM2MSAxNy43NDMyIDExLjQyMjlMMTYuMzQwNyAxMi44MjU0QzE2LjIzNiAxMi45MzAzIDE2LjEwNTIgMTMuMDA1MyAxNS45NjE4IDEzLjA0MjdDMTUuODE4NCAxMy4wODAyIDE1LjY2NzUgMTMuMDc4NyAxNS41MjQ5IDEzLjAzODVDMTUuMzgyMyAxMi45OTgyIDE1LjI1MjkgMTIuOTIwNyAxNS4xNTAyIDEyLjgxMzhDMTUuMDQ3NiAxMi43MDY5IDE0Ljk3NTIgMTIuNTc0NSAxNC45NDA3IDEyLjQzMDRDMTQuODU0MiAxMi4wNzAzIDE0LjY3MzMgMTEuNzM5OCAxNC40MTY2IDExLjQ3MjlDMTQuMTU5OSAxMS4yMDYgMTMuODM2NyAxMS4wMTIzIDEzLjQ4MDIgMTAuOTExOEMxMy4xMjM4IDEwLjgxMTQgMTIuNzQ3IDEwLjgwNzcgMTIuMzg4NyAxMC45MDEzQzEyLjAzMDQgMTAuOTk0OSAxMS43MDM1IDExLjE4MjIgMTEuNDQxNyAxMS40NDQxQzExLjE3OTggMTEuNzA2IDEwLjk5MjYgMTIuMDMzIDEwLjg5OTEgMTIuMzkxNEMxMC44MDU3IDEyLjc0OTcgMTAuODA5NCAxMy4xMjY1IDEwLjkxIDEzLjQ4MjlDMTEuMDEwNiAxMy44MzkzIDExLjIwNDQgMTQuMTYyNSAxMS40NzE0IDE0LjQxOTFDMTEuNzM4NCAxNC42NzU3IDEyLjA2OSAxNC44NTY1IDEyLjQyOTEgMTQuOTQyOUMxMi41NzMyIDE0Ljk3NzQgMTIuNzA1NiAxNS4wNDk3IDEyLjgxMjQgMTUuMTUyNEMxMi45MTkzIDE1LjI1NTEgMTIuOTk2OSAxNS4zODQ0IDEzLjAzNzEgMTUuNTI3MUMxMy4wNzc0IDE1LjY2OTcgMTMuMDc4OSAxNS44MjA1IDEzLjA0MTQgMTUuOTYzOUMxMy4wMDQgMTYuMTA3MyAxMi45Mjg5IDE2LjIzODEgMTIuODI0MSAxNi4zNDI5TDExLjQyMTYgMTcuNzQ0NkMxMS4yMzQ4IDE3LjkzMTQgMTEuMDEzIDE4LjA3OTYgMTAuNzY4OSAxOC4xODA3QzEwLjUyNDkgMTguMjgxOCAxMC4yNjMzIDE4LjMzMzggOS45OTkwNyAxOC4zMzM4QzkuNzM0ODkgMTguMzMzOCA5LjQ3MzI5IDE4LjI4MTggOS4yMjkyMiAxOC4xODA3QzguOTg1MTQgMTguMDc5NiA4Ljc2MzM3IDE3LjkzMTQgOC41NzY1NyAxNy43NDQ2TDcuMTc0MDcgMTYuMzQyMUM3LjA2OTMyIDE2LjIzNzIgNi45Mzg1IDE2LjE2MjIgNi43OTUwOSAxNi4xMjQ3QzYuNjUxNjggMTYuMDg3MyA2LjUwMDg4IDE2LjA4ODggNi4zNTgyNCAxNi4xMjlDNi4yMTU1OSAxNi4xNjkyIDYuMDg2MjYgMTYuMjQ2OCA1Ljk4MzU3IDE2LjM1MzdDNS44ODA4OSAxNi40NjA2IDUuODA4NTcgMTYuNTkyOSA1Ljc3NDA3IDE2LjczNzFDNS42ODc1NyAxNy4wOTcxIDUuNTA2NjUgMTcuNDI3NyA1LjI0OTkzIDE3LjY5NDZDNC45OTMyMiAxNy45NjE1IDQuNjcgMTguMTU1MiA0LjMxMzU2IDE4LjI1NTZDMy45NTcxMiAxOC4zNTYxIDMuNTgwMzQgMTguMzU5NyAzLjIyMjAyIDE4LjI2NjJDMi44NjM3MSAxOC4xNzI2IDIuNTM2ODEgMTcuOTg1MiAyLjI3NDk5IDE3LjcyMzNDMi4wMTMxNyAxNy40NjE0IDEuODI1ODkgMTcuMTM0NSAxLjczMjQ1IDE2Ljc3NjFDMS42MzkwMSAxNi40MTc4IDEuNjQyNzcgMTYuMDQxIDEuNzQzMzYgMTUuNjg0NkMxLjg0Mzk0IDE1LjMyODIgMi4wMzc3MSAxNS4wMDUgMi4zMDQ3MSAxNC43NDg0QzIuNTcxNzEgMTQuNDkxOCAyLjkwMjI5IDE0LjMxMSAzLjI2MjQxIDE0LjIyNDZDMy40MDY1NSAxNC4xOTAxIDMuNTM4ODkgMTQuMTE3OCAzLjY0NTc3IDE0LjAxNTFDMy43NTI2NiAxMy45MTI0IDMuODMwMjIgMTMuNzgzMSAzLjg3MDQ3IDEzLjY0MDRDMy45MTA3MiAxMy40OTc4IDMuOTEyMTkgMTMuMzQ3IDMuODc0NzQgMTMuMjAzNUMzLjgzNzI5IDEzLjA2MDEgMy43NjIyNiAxMi45MjkzIDMuNjU3NDEgMTIuODI0NkwyLjI1NDkxIDExLjQyMjlDMi4wNjgwOSAxMS4yMzYxIDEuOTE5OTEgMTEuMDE0MyAxLjgxODggMTAuNzcwM0MxLjcxNzcgMTAuNTI2MiAxLjY2NTY3IDEwLjI2NDYgMS42NjU2NyAxMC4wMDA0QzEuNjY1NjcgOS43MzYyMSAxLjcxNzcgOS40NzQ2MiAxLjgxODggOS4yMzA1NEMxLjkxOTkxIDguOTg2NDcgMi4wNjgwOSA4Ljc2NDcgMi4yNTQ5MSA4LjU3NzlMMy42NTc0MSA3LjE3NTRDMy43NjIxNiA3LjA3MDU0IDMuODkyOTggNi45OTU1MiA0LjAzNjM5IDYuOTU4MDdDNC4xNzk3OSA2LjkyMDYxIDQuMzMwNiA2LjkyMjA5IDQuNDczMjQgNi45NjIzNEM0LjYxNTg5IDcuMDAyNTggNC43NDUyMiA3LjA4MDE1IDQuODQ3OTEgNy4xODcwM0M0Ljk1MDU5IDcuMjkzOTIgNS4wMjI5MSA3LjQyNjI1IDUuMDU3NDEgNy41NzA0QzUuMTQzOTEgNy45MzA0OCA1LjMyNDgzIDguMjYxIDUuNTgxNTQgOC41Mjc5MkM1LjgzODI2IDguNzk0ODMgNi4xNjE0OCA4Ljk4ODUgNi41MTc5MiA5LjA4ODk2QzYuODc0MzYgOS4xODk0MyA3LjI1MTE0IDkuMTkzMDcgNy42MDk0NSA5LjA5OTUxQzcuOTY3NzcgOS4wMDU5NCA4LjI5NDY3IDguODE4NTYgOC41NTY0OSA4LjU1NjY2QzguODE4MzEgOC4yOTQ3NSA5LjAwNTU4IDcuOTY3NzkgOS4wOTkwMyA3LjYwOTQ0QzkuMTkyNDcgNy4yNTEwOSA5LjE4ODcxIDYuODc0MzEgOS4wODgxMiA2LjUxNzkxQzguOTg3NTQgNi4xNjE1IDguNzkzNzcgNS44MzgzNCA4LjUyNjc3IDUuNTgxNzJDOC4yNTk3NyA1LjMyNTEgNy45MjkxOSA1LjE0NDI4IDcuNTY5MDcgNS4wNTc5QzcuNDI0OTMgNS4wMjM0IDcuMjkyNTkgNC45NTEwOCA3LjE4NTcgNC44NDg0QzcuMDc4ODIgNC43NDU3MiA3LjAwMTI2IDQuNjE2MzggNi45NjEwMSA0LjQ3Mzc0QzYuOTIwNzYgNC4zMzEwOSA2LjkxOTI5IDQuMTgwMjkgNi45NTY3NCA0LjAzNjg4QzYuOTk0MTkgMy44OTM0NyA3LjA2OTIxIDMuNzYyNjUgNy4xNzQwNyAzLjY1NzlMOC41NzY1NyAyLjI1NjIzQzguNzYzMzcgMi4wNjk0MiA4Ljk4NTE0IDEuOTIxMjMgOS4yMjkyMiAxLjgyMDEzQzkuNDczMjkgMS43MTkwMyA5LjczNDg5IDEuNjY2OTkgOS45OTkwNyAxLjY2Njk5QzEwLjI2MzMgMS42NjY5OSAxMC41MjQ5IDEuNzE5MDMgMTAuNzY4OSAxLjgyMDEzQzExLjAxMyAxLjkyMTIzIDExLjIzNDggMi4wNjk0MiAxMS40MjE2IDIuMjU2MjNMMTIuODI0MSAzLjY1ODczWiIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZmlsbD0ibm9uZSIvPjwvc3ZnPg==",
+          "open_new": false,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "toplevel_page_tutor-admin.php?page=tutor-assignments",
+        "custom": false,
+        "name": "Assignments",
+        "url": "admin.php?page=tutor-assignments",
+        "imageClasses": [],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik00LjI2NCA1LjEyYTIuNjA3IDIuNjA3IDAgMCAxIDEuODQzLS43NjRoMS44NTdhLjc1Ljc1IDAgMSAxIDAgMS41SDYuMTA3QTEuMTA3IDEuMTA3IDAgMCAwIDUgNi45NjN2MTEuMTRhMS4xMDcgMS4xMDcgMCAwIDAgMS4xMDcgMS4xMDhoNS4yODlhLjc1Ljc1IDAgMCAxIDAgMS41aC01LjI5QTIuNjA3IDIuNjA3IDAgMCAxIDMuNSAxOC4xMDRWNi45NjRjMC0uNjkyLjI3NS0xLjM1NS43NjQtMS44NDRaTTE3LjI0NyAxMi43MTJhLjc1Ljc1IDAgMCAxIC43NS43NXYyLjk2M2gyLjk2NGEuNzUuNzUgMCAxIDEgMCAxLjVoLTMuNzE0YS43NS43NSAwIDAgMS0uNzUtLjc1di0zLjcxM2EuNzUuNzUgMCAwIDEgLjc1LS43NVpNMTIuNzg0IDUuMTA2YS43NS43NSAwIDAgMSAuNzUtLjc1aDEuODU3YTIuNjA3IDIuNjA3IDAgMCAxIDIuNjA3IDIuNjA3djMuNzE0YS43NS43NSAwIDAgMS0xLjUgMFY2Ljk2M2ExLjEwNyAxLjEwNyAwIDAgMC0xLjEwNy0xLjEwN2gtMS44NTdhLjc1Ljc1IDAgMCAxLS43NS0uNzVaIiBmaWxsPSIjMDAwIi8+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik05LjgyIDRhMS4xMDcgMS4xMDcgMCAwIDAgMCAyLjIxNGgxLjg1N2ExLjEwNyAxLjEwNyAwIDEgMCAwLTIuMjE0SDkuODIxWk03LjIxNSA1LjEwN0EyLjYwNyAyLjYwNyAwIDAgMSA5LjgyIDIuNWgxLjg1NmEyLjYwNyAyLjYwNyAwIDEgMSAwIDUuMjE0SDkuODIxYTIuNjA3IDIuNjA3IDAgMCAxLTIuNjA3LTIuNjA3Wk0xNy4yNDggMTQuMjEyYTIuOTY0IDIuOTY0IDAgMSAwIDAgNS45MjcgMi45NjQgMi45NjQgMCAwIDAgMC01LjkyN1ptLTQuNDY0IDIuOTYzYTQuNDY0IDQuNDY0IDAgMSAxIDguOTI3IDAgNC40NjQgNC40NjQgMCAwIDEtOC45MjcgMFpNNy4yMTQgMTAuNjc3YS43NS43NSAwIDAgMSAuNzUtLjc1aDMuNzEzYS43NS43NSAwIDEgMSAwIDEuNUg3Ljk2NGEuNzUuNzUgMCAwIDEtLjc1LS43NVpNNy4yMTQgMTQuMzlhLjc1Ljc1IDAgMCAxIC43NS0uNzVoMi43ODVhLjc1Ljc1IDAgMCAxIDAgMS41SDcuOTY0YS43NS43NSAwIDAgMS0uNzUtLjc1WiIgZmlsbD0iIzAwMCIvPjwvc3ZnPg==",
+          "open_new": false,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "toplevel_page_tutor-admin.php?page=question_answer",
+        "custom": false,
+        "name": "Q&amp;A",
+        "url": "admin.php?page=question_answer",
+        "imageClasses": [],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PHBhdGggZD0iTTEwLjAwMiAxNy43MDg3QzExLjY3NjUgMTcuNzA4MyAxMy4zMDUzIDE3LjE2MjcgMTQuNjQyMiAxNi4xNTQzQzE1Ljk3OSAxNS4xNDYgMTYuOTUxMSAxMy43Mjk4IDE3LjQxMTYgMTIuMTE5OEMxNy44NzIgMTAuNTA5OSAxNy43OTU2IDguNzkzNzggMTcuMTk0MSA3LjIzMTA4QzE2LjU5MjUgNS42NjgzOCAxNS40OTg0IDQuMzQ0MDcgMTQuMDc3MyAzLjQ1ODQyQzEyLjY1NjIgMi41NzI3NyAxMC45ODU0IDIuMTczOTcgOS4zMTc0NSAyLjMyMjMxQzcuNjQ5NTUgMi40NzA2NSA2LjA3NTMxIDMuMTU4MDggNC44MzI4MSA0LjI4MDYyQzMuNTkwMzEgNS40MDMxNyAyLjc0NzE0IDYuODk5NzggMi40MzA4IDguNTQ0MTJDMi4xMTQ0NiAxMC4xODg1IDIuMzQyMTcgMTEuODkxMSAzLjA3OTQ5IDEzLjM5NDVDMy4xNjk0OSAxMy41Nzc4IDMuMTk5NDkgMTMuNzg0NSAzLjE1MzY2IDEzLjk4MjhMMi40NzM2NiAxNi45Mjk1QzIuNDU0NDkgMTcuMDEyMiAyLjQ1NjY5IDE3LjA5ODQgMi40ODAwNSAxNy4xOEMyLjUwMzQxIDE3LjI2MTYgMi41NDcxNiAxNy4zMzU5IDIuNjA3MTkgMTcuMzk2QzIuNjY3MjEgMTcuNDU2IDIuNzQxNTMgMTcuNDk5NyAyLjgyMzE0IDE3LjUyMzFDMi45MDQ3NSAxNy41NDY1IDIuOTkwOTcgMTcuNTQ4NyAzLjA3MzY2IDE3LjUyOTVMNi4wMTk0OSAxNi44NDg3QzYuMjE4MzkgMTYuODA1MSA2LjQyNjIyIDE2LjgzMTYgNi42MDc4MyAxNi45MjM3QzcuNjYzOTkgMTcuNDQyMyA4LjgyNTM2IDE3LjcxMDkgMTAuMDAyIDE3LjcwODdaIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMS4zIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiLz4KPHBhdGggZD0iTTcuNzUyOTMgOC4wOTExOUM3Ljc1Mjg5IDcuNzM0MzIgNy44Mzc3OCA3LjM4MjU2IDguMDAwNTcgNy4wNjQ5OEM4LjE2MzM2IDYuNzQ3NCA4LjM5OTM5IDYuNDczMTEgOC42ODkxNSA2LjI2NDc5QzguOTc4OTEgNi4wNTY0NiA5LjMxNDA4IDUuOTIwMDggOS42NjY5NyA1Ljg2NjlDMTAuMDE5OSA1LjgxMzczIDEwLjM4MDMgNS44NDUyOSAxMC43MTg2IDUuOTU4OThDMTEuMDU2OSA2LjA3MjY3IDExLjM2MzMgNi4yNjUyMyAxMS42MTI0IDYuNTIwNzRDMTEuODYxNiA2Ljc3NjI0IDEyLjA0NjMgNy4wODczNyAxMi4xNTE1IDcuNDI4NDFDMTIuMjU2NiA3Ljc2OTQ1IDEyLjI3OTEgOC4xMzA2MSAxMi4yMTcgOC40ODIwNUMxMi4xNTQ5IDguODMzNDggMTIuMDEwMiA5LjE2NTExIDExLjc5NDYgOS40NDk1M0MxMS43MTA3IDkuNTQyNTIgMTEuNjIxNyA5LjYzMDcyIDExLjUyNzkgOS43MTM2OUMxMS40NTEzIDkuNzc4NjkgMTEuNDEzOCA5LjgwNTM2IDExLjMzODggOS44NTYxOUwxMC41MjI5IDEwLjQxODdDMTAuMzIxMiAxMC41NTc1IDEwLjE1NjMgMTAuNzQzMyAxMC4wNDI1IDEwLjk2QzkuOTI4NjkgMTEuMTc2OCA5Ljg2OTM0IDExLjQxOCA5Ljg2OTYgMTEuNjYyOSIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjEuMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIi8+CjxwYXRoIGQ9Ik05Ljg1ODcyIDE0Ljc4MzlDMTAuMzE5IDE0Ljc4MzkgMTAuNjkyMSAxNC40MTA4IDEwLjY5MjEgMTMuOTUwNUMxMC42OTIxIDEzLjQ5MDMgMTAuMzE5IDEzLjExNzIgOS44NTg3MiAxMy4xMTcyQzkuMzk4NDkgMTMuMTE3MiA5LjAyNTM5IDEzLjQ5MDMgOS4wMjUzOSAxMy45NTA1QzkuMDI1MzkgMTQuNDEwOCA5LjM5ODQ5IDE0Ljc4MzkgOS44NTg3MiAxNC43ODM5WiIgZmlsbD0iIzAwMCIvPjwvc3ZnPg==",
+          "open_new": false,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "02ae5be9-df17-4cd8-99bd-1097bf49fdfb",
+        "custom": true,
+        "name": "",
+        "url": "/dashboard/certificate-builder/",
+        "imageClasses": [],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "Certificates",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PHBhdGggZD0iTTEwIDEwLjYyNUMxMCAxMC43OTA4IDkuOTM0MTUgMTAuOTQ5NyA5LjgxNjk0IDExLjA2NjlDOS42OTk3MyAxMS4xODQyIDkuNTQwNzYgMTEuMjUgOS4zNzUgMTEuMjVINS42MjVDNS40NTkyNCAxMS4yNSA1LjMwMDI3IDExLjE4NDIgNS4xODMwNiAxMS4wNjY5QzUuMDY1ODUgMTAuOTQ5NyA1IDEwLjc5MDggNSAxMC42MjVDNSAxMC40NTkyIDUuMDY1ODUgMTAuMzAwMyA1LjE4MzA2IDEwLjE4MzFDNS4zMDAyNyAxMC4wNjU4IDUuNDU5MjQgMTAgNS42MjUgMTBIOS4zNzVDOS41NDA3NiAxMCA5LjY5OTczIDEwLjA2NTggOS44MTY5NCAxMC4xODMxQzkuOTM0MTUgMTAuMzAwMyAxMCAxMC40NTkyIDEwIDEwLjYyNVpNOS4zNzUgNy41SDUuNjI1QzUuNDU5MjQgNy41IDUuMzAwMjcgNy41NjU4NSA1LjE4MzA2IDcuNjgzMDZDNS4wNjU4NSA3LjgwMDI3IDUgNy45NTkyNCA1IDguMTI1QzUgOC4yOTA3NiA1LjA2NTg1IDguNDQ5NzMgNS4xODMwNiA4LjU2Njk0QzUuMzAwMjcgOC42ODQxNSA1LjQ1OTI0IDguNzUgNS42MjUgOC43NUg5LjM3NUM5LjU0MDc2IDguNzUgOS42OTk3MyA4LjY4NDE1IDkuODE2OTQgOC41NjY5NEM5LjkzNDE1IDguNDQ5NzMgMTAgOC4yOTA3NiAxMCA4LjEyNUMxMCA3Ljk1OTI0IDkuOTM0MTUgNy44MDAyNyA5LjgxNjk0IDcuNjgzMDZDOS42OTk3MyA3LjU2NTg1IDkuNTQwNzYgNy41IDkuMzc1IDcuNVpNMTguMTI1IDEyLjYxNDhWMTcuNUMxOC4xMjYgMTcuNjEwMiAxOC4wOTc4IDE3LjcxODcgMTguMDQzNCAxNy44MTQ1QzE3Ljk4ODkgMTcuOTEwMyAxNy45MTAxIDE3Ljk5IDE3LjgxNDkgMTguMDQ1NUMxNy43MTk4IDE4LjEwMSAxNy42MTE2IDE4LjEzMDQgMTcuNTAxNCAxOC4xMzA2QzE3LjM5MTIgMTguMTMwOSAxNy4yODI5IDE4LjEwMiAxNy4xODc1IDE4LjA0NjlMMTUuMzEyNSAxNi45NzM0TDEzLjQzNzUgMTguMDQ2OUMxMy4zNDIxIDE4LjEwMiAxMy4yMzM4IDE4LjEzMDkgMTMuMTIzNiAxOC4xMzA2QzEzLjAxMzQgMTguMTMwNCAxMi45MDUyIDE4LjEwMSAxMi44MTAxIDE4LjA0NTVDMTIuNzE0OSAxNy45OSAxMi42MzYxIDE3LjkxMDMgMTIuNTgxNiAxNy44MTQ1QzEyLjUyNzIgMTcuNzE4NyAxMi40OTkgMTcuNjEwMiAxMi41IDE3LjVWMTUuNjI1SDMuMTI1QzIuNzkzNDggMTUuNjI1IDIuNDc1NTQgMTUuNDkzMyAyLjI0MTEyIDE1LjI1ODlDMi4wMDY3IDE1LjAyNDUgMS44NzUgMTQuNzA2NSAxLjg3NSAxNC4zNzVWNC4zNzVDMS44NzUgNC4wNDM0OCAyLjAwNjcgMy43MjU1NCAyLjI0MTEyIDMuNDkxMTJDMi40NzU1NCAzLjI1NjcgMi43OTM0OCAzLjEyNSAzLjEyNSAzLjEyNUgxNi44NzVDMTcuMjA2NSAzLjEyNSAxNy41MjQ1IDMuMjU2NyAxNy43NTg5IDMuNDkxMTJDMTcuOTkzMyAzLjcyNTU0IDE4LjEyNSA0LjA0MzQ4IDE4LjEyNSA0LjM3NVY2Ljc2MDE2QzE4LjUyMDEgNy4xMzg1IDE4LjgzNDUgNy41OTI5MSAxOS4wNDkzIDguMDk2MDFDMTkuMjY0MSA4LjU5OTEgMTkuMzc0OCA5LjE0MDQ3IDE5LjM3NDggOS42ODc1QzE5LjM3NDggMTAuMjM0NSAxOS4yNjQxIDEwLjc3NTkgMTkuMDQ5MyAxMS4yNzlDMTguODM0NSAxMS43ODIxIDE4LjUyMDEgMTIuMjM2NSAxOC4xMjUgMTIuNjE0OFpNMTIuNSAxNC4zNzVWMTIuNjE0OEMxMS44MTg5IDExLjk1OCAxMS4zODg1IDExLjA4NCAxMS4yODMgMTAuMTQzN0MxMS4xNzc0IDkuMjAzMzcgMTEuNDAzNSA4LjI1NTcxIDExLjkyMiA3LjQ2NDI0QzEyLjQ0MDYgNi42NzI3OCAxMy4yMTkyIDYuMDg3MTUgMTQuMTIzNCA1LjgwODQyQzE1LjAyNzcgNS41Mjk2OSAxNi4wMDA4IDUuNTc1MzUgMTYuODc1IDUuOTM3NVY0LjM3NUgzLjEyNVYxNC4zNzVIMTIuNVpNMTYuODc1IDEzLjQzNzVDMTYuMzggMTMuNjQ0MyAxNS44NDg5IDEzLjc1MDggMTUuMzEyNSAxMy43NTA4QzE0Ljc3NjEgMTMuNzUwOCAxNC4yNDUgMTMuNjQ0MyAxMy43NSAxMy40Mzc1VjE2LjQyMzRMMTUgMTUuNzA3OEMxNS4wOTQ1IDE1LjY1MzggMTUuMjAxNCAxNS42MjU0IDE1LjMxMDIgMTUuNjI1NEMxNS40MTkgMTUuNjI1NCAxNS41MjU5IDE1LjY1MzggMTUuNjIwMyAxNS43MDc4TDE2Ljg3MDMgMTYuNDIzNEwxNi44NzUgMTMuNDM3NVpNMTguMTI1IDkuNjg3NUMxOC4xMjUgOS4xMzEyNCAxNy45NjAxIDguNTg3NDcgMTcuNjUxIDguMTI0OTZDMTcuMzQyIDcuNjYyNDUgMTYuOTAyNyA3LjMwMTk2IDE2LjM4ODggNy4wODkwOUMxNS44NzQ5IDYuODc2MjIgMTUuMzA5NCA2LjgyMDUyIDE0Ljc2MzggNi45MjkwNEMxNC4yMTgyIDcuMDM3NTYgMTMuNzE3MSA3LjMwNTQzIDEzLjMyMzggNy42OTg3NkMxMi45MzA0IDguMDkyMSAxMi42NjI2IDguNTkzMjQgMTIuNTU0IDkuMTM4ODFDMTIuNDQ1NSA5LjY4NDM4IDEyLjUwMTIgMTAuMjQ5OSAxMi43MTQxIDEwLjc2MzhDMTIuOTI3IDExLjI3NzcgMTMuMjg3NCAxMS43MTcgMTMuNzUgMTIuMDI2QzE0LjIxMjUgMTIuMzM1IDE0Ljc1NjIgMTIuNSAxNS4zMTI1IDEyLjVDMTUuNjgxOCAxMi41IDE2LjA0NzYgMTIuNDI3MyAxNi4zODg4IDEyLjI4NTlDMTYuNzMgMTIuMTQ0NiAxNy4wNDAxIDExLjkzNzQgMTcuMzAxMiAxMS42NzYyQzE3LjU2MjQgMTEuNDE1MSAxNy43Njk2IDExLjEwNSAxNy45MTA5IDEwLjc2MzhDMTguMDUyMyAxMC40MjI2IDE4LjEyNSAxMC4wNTY4IDE4LjEyNSA5LjY4NzVaIiBmaWxsPSIjMDAwIi8+PC9zdmc+",
+          "open_new": true,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "c9b6b56f-d215-406e-95ce-929e5a077d50",
+        "custom": true,
+        "name": "",
+        "url": "",
+        "imageClasses": [],
+        "iconStyles": "",
+        "target": "",
+        "type": "separator",
+        "settings": {
+          "name": "Live Classes",
+          "icon": "",
+          "open_new": false,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "toplevel_page_tutor-admin.php?page=google-meet",
+        "custom": false,
+        "name": "Google Meet",
+        "url": "admin.php?page=google-meet",
+        "imageClasses": [],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik00IDkuMzIgNy43NDggNS41aDcuODYyYy42MDYgMCAxLjA5Ny41IDEuMDk3IDEuMTE4djIuNWwyLjM5NS0yYy4zNi0uMy44OTgtLjA0Ljg5OC40MzJ2OS40MDljMCAuNDY3LS41MjcuNzI4LS44ODcuNDQybC0yLjQwNi0yLjAxdjIuNDA2YzAgLjYxOC0uNDkgMS4xMTgtMS4wOTcgMS4xMThINS4wOTdjLS42MDYgMC0xLjA5Ny0uNS0xLjA5Ny0xLjExOFY5LjMyWm05LjA1IDIuODg4VjkuMzJINy43NDh2NS43NzZoNS4zMDJ2LTIuODg4WiIgZmlsbD0iIzAwMCIvPjwvc3ZnPg==",
+          "open_new": false,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "toplevel_page_tutor-admin.php?page=tutor_zoom",
+        "custom": false,
+        "name": "Zoom",
+        "url": "admin.php?page=tutor_zoom",
+        "imageClasses": [],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yMSAxMi4wMDRBOSA5IDAgMCAwIDExLjk5NiAzQzcuMDI4IDMgMyA3LjAyOCAzIDEyLjAwNEE4Ljk5NyA4Ljk5NyAwIDAgMCAxMS45OTYgMjFDMTYuOTczIDIxIDIxIDE2Ljk3MiAyMSAxMi4wMDRaTTYuODU3IDloNS45MXMxLjQ0My4xNDcgMS40OTIgMS4zNXY0LjY0M2gtNS43MnMtMS42MzIuMTk4LTEuNjgyLTEuNTVWOVptMTAuMjg2IDZWOWwtMi41NDUgMS43OTl2Mi40NDZsMi41NDUgMS43NTRaIiBmaWxsPSIjMDAwIi8+PC9zdmc+",
+          "open_new": false,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "separator-0",
+        "custom": false,
+        "name": "",
+        "url": "",
+        "imageClasses": [],
+        "iconStyles": "",
+        "target": "",
+        "type": "separator",
+        "settings": {
+          "name": "Libraries",
+          "icon": "",
+          "open_new": false,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "toplevel_page_tutor-admin.php?page=tutor-content-bank",
+        "custom": false,
+        "name": "Content Bank",
+        "url": "admin.php?page=tutor-content-bank",
+        "imageClasses": [],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTE5LjEyMiAzLjk5aC00LjQ1YS44OS44OSAwIDAgMC0uODkuODl2NC40NWMwIC40OTEuMzk4Ljg5Ljg5Ljg5aDQuNDVhLjg5Ljg5IDAgMCAwIC44OS0uODlWNC44OGEuODkuODkgMCAwIDAtLjg5LS44OVpNMTAuMjIzIDIwLjAxMVY4LjQ0YS44OS44OSAwIDAgMC0uODktLjg5aC00LjQ1YS44OS44OSAwIDAgMC0uODkuODl2MTAuNjhhLjg5Ljg5IDAgMCAwIC44OS44OTFoMTAuNjhhLjg5Ljg5IDAgMCAwIC44OS0uODl2LTQuNDVhLjg5Ljg5IDAgMCAwLS44OS0uODlIMy45OTMiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZmlsbD0ibm9uZSIvPjwvc3ZnPg==",
+          "open_new": false,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "menu-media-upload.php",
+        "custom": false,
+        "name": "Library",
+        "url": "upload.php",
+        "imageClasses": [],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "Media Library",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyOCAyMiI+PHBhdGggZD0ibTEgMTYgNi44NzktNi44NzlhMyAzIDAgMCAxIDQuMjQyIDBMMTkgMTZtLTItMiAxLjg3OS0xLjg3OWEzLjAwMSAzLjAwMSAwIDAgMSA0LjI0MiAwTDI3IDE2TTMgMjFoMjJhMiAyIDAgMCAwIDItMlYzYTIgMiAwIDAgMC0yLTJIM2EyIDIgMCAwIDAtMiAydjE2YTIgMiAwIDAgMCAyIDJaTTE3IDZoLjAxdi4wMUgxN1Y2Wm0uNSAwYS41LjUgMCAxIDEtMSAwIC41LjUgMCAwIDEgMSAwdjBaIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiLz48L3N2Zz4=",
+          "open_new": false,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "toplevel_page_h5p",
+        "custom": false,
+        "name": "H5P Content",
+        "url": "admin.php?page=h5p",
+        "imageClasses": [
+          "wp-menu-image",
+          "dashicons-before"
+        ],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": false
+        },
+        "submenu": [
+          {
+            "id": "toplevel_page_h5p-admin.php?page=h5p",
+            "custom": false,
+            "name": "All H5P Content",
+            "url": "admin.php?page=h5p",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_h5p-admin.php?page=h5p_new",
+            "custom": false,
+            "name": "Add New",
+            "url": "admin.php?page=h5p_new",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_h5p-admin.php?page=h5p_libraries",
+            "custom": false,
+            "name": "Libraries",
+            "url": "admin.php?page=h5p_libraries",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": true
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_h5p-admin.php?page=h5p_results",
+            "custom": false,
+            "name": "My Results",
+            "url": "admin.php?page=h5p_results",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          }
+        ],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "toplevel_page_edit-post_type-wp_block",
+        "custom": false,
+        "name": "Reusable Templates",
+        "url": "edit.php?post_type=wp_block",
+        "imageClasses": [
+          "wp-menu-image",
+          "dashicons-before",
+          "dashicons-screenoptions"
+        ],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "052d9048-bbbb-40b1-ad8f-cfa121baa191",
+        "custom": true,
+        "name": "",
+        "url": "",
+        "imageClasses": [],
+        "iconStyles": "",
+        "target": "",
+        "type": "separator",
+        "settings": {
+          "name": "Account",
+          "icon": "",
+          "open_new": false,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "d559671c-a606-4b3d-96dc-52a7b73c7ba1",
+        "custom": true,
+        "name": "",
+        "url": "/dashboard/analytics/",
+        "imageClasses": [],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "Analytics",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PHBhdGggZD0iTTUuODMzNjYgMTUuNDYwOVYxMy40MjUzTTEwLjAwMDMgMTUuNDYwOVYxMi40MDc2TTE0LjE2NyAxNS40NjA5VjEwLjM3MjEiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIxLjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsbD0ibm9uZSIvPgo8cGF0aCBkPSJNNC42NzI4NSA4Ljg5NjQ4QzguMzkxMTQgOS43MjYzNCAxMS41ODA1IDguNDU5NiAxMy44MTQ3IDUuOTIzMzhNMTIuMTA5IDUuNTIxOTZMMTQuMDE5NCA1LjI4OTEyQzE0LjI0NjIgNS4yNjE4NCAxNC40MTkxIDUuNDI2NzMgMTQuNDA2NCA1LjY1NzczTDE0LjI5ODMgNy42MDUwMyIgc3Ryb2tlPSIjMDAwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiLz4KPHBhdGggZD0iTTE3LjkxNyA5Ljk5OTY3QzE3LjkxNyA2LjI2ODAxIDE3LjkxNyA0LjQwMTM0IDE2Ljc1NzggMy4yNDIxN0MxNS41OTg3IDIuMDgzMDEgMTMuNzMyOCAyLjA4MzAxIDEwLjAwMDMgMi4wODMwMUM2LjI2ODY2IDIuMDgzMDEgNC40MDE5OSAyLjA4MzAxIDMuMjQyODMgMy4yNDIxN0MyLjA4MzY2IDQuNDAxMzQgMi4wODM2NiA2LjI2NzE3IDIuMDgzNjYgOS45OTk2N0MyLjA4MzY2IDEzLjczMTMgMi4wODM2NiAxNS41OTggMy4yNDI4MyAxNi43NTcyQzQuNDAxOTkgMTcuOTE2MyA2LjI2NzgzIDE3LjkxNjMgMTAuMDAwMyAxNy45MTYzQzEzLjczMiAxNy45MTYzIDE1LjU5ODcgMTcuOTE2MyAxNi43NTc4IDE2Ljc1NzJDMTcuOTE3IDE1LjU5OCAxNy45MTcgMTMuNzMyMiAxNy45MTcgOS45OTk2N1oiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIi8+PC9zdmc+",
+          "open_new": true,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "name": "",
+        "url": "/dashboard/account/profile/",
+        "custom": true,
+        "id": "88b71efd-c24b-4873-bc39-247c00c75eaf",
+        "submenu": [],
+        "settings": {
+          "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PHBhdGggZD0iTTE1IDE2LjY2N0MxNSAxNS4zNDA5IDE0LjQ3MzIgMTQuMDY5MSAxMy41MzU1IDEzLjEzMTVDMTIuNTk3OSAxMi4xOTM4IDExLjMyNjEgMTEuNjY3IDEwIDExLjY2N0M4LjY3MzkyIDExLjY2NyA3LjQwMjE1IDEyLjE5MzggNi40NjQ0NyAxMy4xMzE1QzUuNTI2NzggMTQuMDY5MSA1IDE1LjM0MDkgNSAxNi42NjciIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0xMC4wMDAzIDExLjY2NjdDMTEuODQxMyAxMS42NjY3IDEzLjMzMzcgMTAuMTc0MyAxMy4zMzM3IDguMzMzMzNDMTMuMzMzNyA2LjQ5MjM4IDExLjg0MTMgNSAxMC4wMDAzIDVDOC4xNTkzOCA1IDYuNjY2OTkgNi40OTIzOCA2LjY2Njk5IDguMzMzMzNDNi42NjY5OSAxMC4xNzQzIDguMTU5MzggMTEuNjY2NyAxMC4wMDAzIDExLjY2NjdaIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiLz48cGF0aCBkPSJNMTAuMDAwMyAxOC4zMzM3QzE0LjYwMjcgMTguMzMzNyAxOC4zMzM3IDE0LjYwMjcgMTguMzMzNyAxMC4wMDAzQzE4LjMzMzcgNS4zOTc5NSAxNC42MDI3IDEuNjY2OTkgMTAuMDAwMyAxLjY2Njk5QzUuMzk3OTUgMS42NjY5OSAxLjY2Njk5IDUuMzk3OTUgMS42NjY5OSAxMC4wMDAzQzEuNjY2OTkgMTQuNjAyNyA1LjM5Nzk1IDE4LjMzMzcgMTAuMDAwMyAxOC4zMzM3WiIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIi8+PC9zdmc+",
+          "name": "Profile",
+          "open_new": true,
+          "hidden": false
+        }
+      },
+      {
+        "id": "8b4b62eb-7d60-4ffb-ad81-ba2210600e1c",
+        "custom": true,
+        "name": "",
+        "url": "/dashboard/account/withdrawals/",
+        "imageClasses": [],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "Withdrawals",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PHBhdGggc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjEuMjUiIGQ9Ik0xNS44MzMgMTYuNjY3SDQuMTY3QTEuNjY3IDEuNjY3IDAgMCAxIDIuNSAxNVY3LjVhMS42NjcgMS42NjcgMCAwIDEgMS42NjctMS42NjdoMTEuNjY2QTEuNjY2IDEuNjY2IDAgMCAxIDE3LjUgNy41VjE1YTEuNjY3IDEuNjY3IDAgMCAxLTEuNjY3IDEuNjY3WiIgZmlsbD0ibm9uZSIvPjxwYXRoIGZpbGw9IiMwMDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjEuMjUiIGQ9Ik0xMy43NSAxMS42NjdhLjQxNi40MTYgMCAxIDEgMC0uODMzLjQxNi40MTYgMCAwIDEgMCAuODMzIi8+PHBhdGggc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjEuMjUiIGQ9Ik0xNSA1LjgzM1Y0LjY3YTEuNjY2IDEuNjY2IDAgMCAwLTIuMDk2LTEuNjFMMy43MzggNS41MDNBMS42NyAxLjY3IDAgMCAwIDIuNSA3LjExNFY3LjUiIGZpbGw9Im5vbmUiLz48L3N2Zz4=",
+          "open_new": true,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "name": "",
+        "url": "/dashboard/account/settings/?tab=account",
+        "custom": true,
+        "id": "8c5debc1-cf7a-4d46-be2a-3d710554f3f2",
+        "submenu": [],
+        "settings": {
+          "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PHBhdGggZD0iTTguMTMzNjcgMy42OTc5QzguMTc3ODMgMy4yMzMzNCA4LjM5MzYxIDIuODAxOTMgOC43Mzg4NCAyLjQ4Nzk2QzkuMDg0MDggMi4xNzM5OCA5LjUzMzk3IDIgMTAuMDAwNiAyQzEwLjQ2NzMgMiAxMC45MTcyIDIuMTczOTggMTEuMjYyNCAyLjQ4Nzk2QzExLjYwNzYgMi44MDE5MyAxMS44MjM0IDMuMjMzMzQgMTEuODY3NiAzLjY5NzlDMTEuODk0MSAzLjk5OCAxMS45OTI2IDQuMjg3MjkgMTIuMTU0NiA0LjU0MTI5QzEyLjMxNjYgNC43OTUyOCAxMi41Mzc1IDUuMDA2NSAxMi43OTg0IDUuMTU3MDZDMTMuMDU5NCA1LjMwNzYyIDEzLjM1MjcgNS4zOTMxIDEzLjY1MzcgNS40MDYyNkMxMy45NTQ3IDUuNDE5NDIgMTQuMjU0NCA1LjM1OTg3IDE0LjUyNzUgNS4yMzI2NUMxNC45NTE2IDUuMDQwMTMgMTUuNDMyMSA1LjAxMjI3IDE1Ljg3NTYgNS4xNTQ1QzE2LjMxOSA1LjI5NjczIDE2LjY5MzcgNS41OTg4NyAxNi45MjY3IDYuMDAyMTJDMTcuMTU5NiA2LjQwNTM2IDE3LjIzNDIgNi44ODA4NyAxNy4xMzU5IDcuMzM2MDhDMTcuMDM3NiA3Ljc5MTMgMTYuNzczNSA4LjE5MzY1IDE2LjM5NDkgOC40NjQ4NUMxNi4xNDgzIDguNjM3ODQgMTUuOTQ3MSA4Ljg2NzY2IDE1LjgwODIgOS4xMzQ4N0MxNS42NjkyIDkuNDAyMDggMTUuNTk2NyA5LjY5ODgzIDE1LjU5NjcgMTBDMTUuNTk2NyAxMC4zMDEyIDE1LjY2OTIgMTAuNTk3OSAxNS44MDgyIDEwLjg2NTFDMTUuOTQ3MSAxMS4xMzIzIDE2LjE0ODMgMTEuMzYyMiAxNi4zOTQ5IDExLjUzNTJDMTYuNzczNSAxMS44MDYzIDE3LjAzNzYgMTIuMjA4NyAxNy4xMzU5IDEyLjY2MzlDMTcuMjM0MiAxMy4xMTkxIDE3LjE1OTYgMTMuNTk0NiAxNi45MjY3IDEzLjk5NzlDMTYuNjkzNyAxNC40MDExIDE2LjMxOSAxNC43MDMzIDE1Ljg3NTYgMTQuODQ1NUMxNS40MzIxIDE0Ljk4NzcgMTQuOTUxNiAxNC45NTk5IDE0LjUyNzUgMTQuNzY3M0MxNC4yNTQ0IDE0LjY0MDEgMTMuOTU0NyAxNC41ODA2IDEzLjY1MzcgMTQuNTkzN0MxMy4zNTI3IDE0LjYwNjkgMTMuMDU5NCAxNC42OTI0IDEyLjc5ODQgMTQuODQyOUMxMi41Mzc1IDE0Ljk5MzUgMTIuMzE2NiAxNS4yMDQ3IDEyLjE1NDYgMTUuNDU4N0MxMS45OTI2IDE1LjcxMjcgMTEuODk0MSAxNi4wMDIgMTEuODY3NiAxNi4zMDIxQzExLjgyMzQgMTYuNzY2NyAxMS42MDc2IDE3LjE5ODEgMTEuMjYyNCAxNy41MTJDMTAuOTE3MiAxNy44MjYgMTAuNDY3MyAxOCAxMC4wMDA2IDE4QzkuNTMzOTcgMTggOS4wODQwOCAxNy44MjYgOC43Mzg4NCAxNy41MTJDOC4zOTM2MSAxNy4xOTgxIDguMTc3ODMgMTYuNzY2NyA4LjEzMzY3IDE2LjMwMjFDOC4xMDcxOCAxNi4wMDE5IDguMDA4NzMgMTUuNzEyNSA3Ljg0NjY1IDE1LjQ1ODRDNy42ODQ1OCAxNS4yMDQzIDcuNDYzNjUgMTQuOTkzIDcuMjAyNTkgMTQuODQyNUM2Ljk0MTUzIDE0LjY5MTkgNi42NDgwMyAxNC42MDY0IDYuMzQ2OTQgMTQuNTkzNEM2LjA0NTg0IDE0LjU4MDMgNS43NDYwNCAxNC42NCA1LjQ3MjkgMTQuNzY3M0M1LjA0ODg2IDE0Ljk1OTkgNC41NjgzNCAxNC45ODc3IDQuMTI0ODkgMTQuODQ1NUMzLjY4MTQzIDE0LjcwMzMgMy4zMDY3NiAxNC40MDExIDMuMDczNzkgMTMuOTk3OUMyLjg0MDgyIDEzLjU5NDYgMi43NjYyMiAxMy4xMTkxIDIuODY0NTIgMTIuNjYzOUMyLjk2MjgxIDEyLjIwODcgMy4yMjY5NiAxMS44MDYzIDMuNjA1NTYgMTEuNTM1MkMzLjg1MjEgMTEuMzYyMiA0LjA1MzM0IDExLjEzMjMgNC4xOTIyOCAxMC44NjUxQzQuMzMxMjIgMTAuNTk3OSA0LjQwMzc1IDEwLjMwMTIgNC40MDM3NSAxMEM0LjQwMzc1IDkuNjk4ODMgNC4zMzEyMiA5LjQwMjA4IDQuMTkyMjggOS4xMzQ4N0M0LjA1MzM0IDguODY3NjYgMy44NTIxIDguNjM3ODQgMy42MDU1NiA4LjQ2NDg1QzMuMjI3NDkgOC4xOTM1MiAyLjk2MzgxIDcuNzkxMzIgMi44NjU3NSA3LjMzNjQxQzIuNzY3NyA2Ljg4MTUgMi44NDIyOCA2LjQwNjM5IDMuMDc0OTkgNi4wMDM0MUMzLjMwNzcxIDUuNjAwNDIgMy42ODE5NCA1LjI5ODM1IDQuMTI0OTYgNS4xNTU5MUM0LjU2Nzk4IDUuMDEzNDYgNS4wNDgxMyA1LjA0MDgyIDUuNDcyMSA1LjIzMjY1QzUuNzQ1MiA1LjM1OTg3IDYuMDQ0OTMgNS40MTk0MiA2LjM0NTkxIDUuNDA2MjZDNi42NDY5IDUuMzkzMSA2Ljk0MDI4IDUuMzA3NjIgNy4yMDEyMyA1LjE1NzA2QzcuNDYyMTggNS4wMDY1IDcuNjgzMDIgNC43OTUyOCA3Ljg0NTA1IDQuNTQxMjlDOC4wMDcwOCA0LjI4NzI5IDguMTA1NTMgMy45OTggOC4xMzIwNyAzLjY5NzkiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIxLjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0xMCAxMi40MDQzQzExLjMyNzkgMTIuNDA0MyAxMi40MDQzIDExLjMyNzkgMTIuNDA0MyAxMEMxMi40MDQzIDguNjcyMTUgMTEuMzI3OSA3LjU5NTcgMTAgNy41OTU3QzguNjcyMTUgNy41OTU3IDcuNTk1NyA4LjY3MjE1IDcuNTk1NyAxMEM3LjU5NTcgMTEuMzI3OSA4LjY3MjE1IDEyLjQwNDMgMTAgMTIuNDA0M1oiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIxLjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZmlsbD0ibm9uZSIvPjwvc3ZnPg==",
+          "name": "Settings",
+          "open_new": true,
+          "hidden": false
+        }
+      },
+      {
+        "id": "toplevel_page_tutor",
+        "custom": false,
+        "name": "Tutor LMS Pro",
+        "url": "admin.php?page=tutor",
+        "imageClasses": [
+          "wp-menu-image",
+          "svg"
+        ],
+        "iconStyles": "background-image: url(\"data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZjNmMWYxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAwIDExMzkiPjxkZWZzLz48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTM0MS42NTIgNjIyLjRjLTIzLjQxMiAwLTQzLjIyMi0xOS44LTQzLjIyMi00My4ydi05OWMwLTIzLjQgMTkuODEtNDMuMiA0My4yMjItNDMuMiAyMy40MTIgMCA0My4yMjIgMTkuOCA0My4yMjIgNDMuMnY5OWMwIDIzLjQtMTguMDA5IDQzLjItNDMuMjIyIDQzLjIgMS44MDEgMCAxLjgwMSAwIDAgMHpNNjU1LjAxIDYyMi40Yy0yMy40MTIgMC00My4yMjItMTgtNDMuMjIyLTQzLjJ2LTk5YzAtMjMuNCAxOS44MS00My4yIDQzLjIyMi00My4yIDIzLjQxMiAwIDQzLjIyMiAxOS44IDQzLjIyMiA0My4ydjk5YzAgMjUuMi0xOS44MSA0My4yLTQzLjIyMiA0My4yeiIgZmlsbD0iI2YzZjFmMSIvPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMjU1LjIwNCA0MDYuNGMxOC4wMDktMzcuOCA1NC4wMjgtNjMgOTUuNDQ5LTYzIDYxLjIzMSAxLjggMTA4LjA1NSA1Mi4yIDEwNi4yNTQgMTEzLjR2MjAzLjRjMy42MDIgMjEuNiAyMy40MTIgMzcuOCA0NS4wMjMgMzQuMiAxOC4wMDktMS44IDMyLjQxNi0xNi4yIDM0LjIxNy0zNC4yVjQ1NWMtMS44MDEtNjEuMiA0Ni44MjQtMTExLjYgMTA2LjI1NC0xMTMuNCAzOS42MjEgMCA3NS42MzkgMjEuNiA5My42NDggNTkuNCA2OC40MzUgMTMzLjIgMTQuNDA3IDI5NS4yLTExNy4wNiAzNjMuNkM0ODcuNTIzIDgzMyAzMjUuNDQgNzc5IDI1OC44MDYgNjQ3LjZjLTM5LjYyLTc1LjYtMzkuNjItMTY1LjYtMy42MDItMjQxLjJ6TTQyNi4yOTEgMTQwaDE1MS4yNzd2NTkuNGMtMjUuMjEyLTUuNC01Mi4yMjYtOS03Ny40MzktOS0yNS4yMTMgMC01MC40MjYgMy42LTc1LjYzOSA3LjJsMS44MDEtNTcuNnptNDE0LjIxMSAzODguOGMwLTEyMi40LTY2LjYzNC0yMzUuOC0xNzIuODg4LTI5NS4yVjE0MGg2NC44MzNjMjUuMjEzIDAgNDUuMDIzLTE5LjggNDUuMDIzLTQ1cy0yMS42MTEtNDUtNDUuMDIzLTQ1SDI3MS40MTNDMjQ2LjIgNTEuOCAyMjYuMzkgNzEuNiAyMjYuMzkgOTYuOGMwIDI1LjIgMTkuODEgNDUgNDUuMDIzIDQ1aDY2LjYzM3Y5MS44Yy0xNjMuODgzIDkwLTIzMC41MTcgMjk4LjgtMTM1LjA2OCA0NTkgMy42MDIgNS40LTMuNjAyLTUuNCAwIDBDMzM4LjA0NiA5MzAuMiA2ODcuNDI0IDk0OC4yIDgwMi42ODMgOTUwYzEwLjgwNSAwIDE5LjgxLTMuNiAyNy4wMTQtMTAuOCA3LjIwMy03LjIgMTAuODA1LTE4IDEwLjgwNS0yN1Y1MjguOHoiIGZpbGw9IiNmM2YxZjEiLz48L3N2Zz4=\") !important;",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": true
+        },
+        "submenu": [
+          {
+            "id": "toplevel_page_tutor-admin.php?page=tutor-google-classroom",
+            "custom": false,
+            "name": "Google Classroom",
+            "url": "admin.php?page=tutor-google-classroom",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "Google Classroom (no filter)",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-edit.php?post_type=lesson",
+            "custom": false,
+            "name": "Lessons",
+            "url": "edit.php?post_type=lesson",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-admin.php?page=create-course",
+            "custom": false,
+            "name": "Create Course",
+            "url": "admin.php?page=create-course",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-edit-tags.php?taxonomy=course-category&post_type=courses",
+            "custom": false,
+            "name": "Categories",
+            "url": "edit-tags.php?taxonomy=course-category&post_type=courses",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-edit-tags.php?taxonomy=course-tag&post_type=courses",
+            "custom": false,
+            "name": "Tags",
+            "url": "edit-tags.php?taxonomy=course-tag&post_type=courses",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-#",
+            "custom": false,
+            "name": "",
+            "url": "#",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-admin.php?page=tutor-addons",
+            "custom": false,
+            "name": "Addons",
+            "url": "admin.php?page=tutor-addons",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-admin.php?page=tutor-whats-new",
+            "custom": false,
+            "name": "What’s New",
+            "url": "admin.php?page=tutor-whats-new",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-admin.php?page=tutor-tools",
+            "custom": false,
+            "name": "Tools",
+            "url": "admin.php?page=tutor-tools",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-admin.php?page=tutor-students",
+            "custom": false,
+            "name": "Students",
+            "url": "admin.php?page=tutor-students",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-admin.php?page=enrollments",
+            "custom": false,
+            "name": "Enrollment",
+            "url": "admin.php?page=enrollments",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-admin.php?page=tutor_report",
+            "custom": false,
+            "name": "Reports",
+            "url": "admin.php?page=tutor_report",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-admin.php?page=tutor_gradebook",
+            "custom": false,
+            "name": "Gradebook",
+            "url": "admin.php?page=tutor_gradebook",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-admin.php?page=tutor_settings",
+            "custom": false,
+            "name": "Settings",
+            "url": "admin.php?page=tutor_settings",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-admin.php?page=tutor-instructors",
+            "custom": false,
+            "name": "Instructors",
+            "url": "admin.php?page=tutor-instructors",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-admin.php?page=tutor_withdraw_requests",
+            "custom": false,
+            "name": "Withdraw Requests",
+            "url": "admin.php?page=tutor_withdraw_requests",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-admin.php?page=tutor-themes",
+            "custom": false,
+            "name": "Themes",
+            "url": "admin.php?page=tutor-themes",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-#",
+            "custom": false,
+            "name": "",
+            "url": "#",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-admin.php?page=tutorpress-settings",
+            "custom": false,
+            "name": "TutorPress",
+            "url": "admin.php?page=tutorpress-settings",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-admin.php?page=tutorpress-settings-account",
+            "custom": false,
+            "name": "Account",
+            "url": "admin.php?page=tutorpress-settings-account",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_tutor-admin.php?page=tutorpress-settings-contact",
+            "custom": false,
+            "name": "Contact Us",
+            "url": "admin.php?page=tutorpress-settings-contact",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "88036fc7-7862-4d65-bfa1-a53673060cfc",
+            "custom": true,
+            "name": "",
+            "url": "",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "Custom menu item",
+              "icon": "link",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          }
+        ],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "toplevel_page_ct-dashboard",
+        "custom": false,
+        "name": "Blocksy",
+        "url": "admin.php?page=ct-dashboard",
+        "imageClasses": [
+          "wp-menu-image",
+          "svg"
+        ],
+        "iconStyles": "background-image: url(\"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgMzUgMzUiIHN0eWxlPSJmaWxsOiNmM2YxZjEiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cGF0aCBkPSJNMjEuNiwyMS4zYzAsMC42LTAuNSwxLjEtMS4xLDEuMWgtMy41bC0wLjktMi4yaDQuNEMyMS4xLDIwLjIsMjEuNiwyMC43LDIxLjYsMjEuM3ogTTIwLjYsMTMuNWgtNC40bDAuOSwyLjJoMy41CgljMC42LDAsMS4xLTAuNSwxLjEtMS4xQzIxLjYsMTQsMjEuMSwxMy41LDIwLjYsMTMuNXogTTM1LDE3LjVDMzUsMjcuMiwyNy4yLDM1LDE3LjUsMzVDNy44LDM1LDAsMjcuMiwwLDE3LjVDMCw3LjgsNy44LDAsMTcuNSwwCglDMjcuMiwwLDM1LDcuOCwzNSwxNy41eiBNMjUsMTcuOWMwLjctMC45LDEuMS0yLjEsMS4xLTMuNGMwLTEuMi0wLjQtMi40LTEuMS0zLjNjLTEtMS40LTIuNi0yLjMtNC40LTIuM2MwLDAtMC4xLDAtMC4xLDB2MEg5LjkKCWMtMC4zLDAtMC41LDAuMy0wLjQsMC41bDIuNiw2LjJIOS45Yy0wLjMsMC0wLjUsMC4zLTAuNCwwLjVMMTQsMjYuOWg2LjVjMy4xLDAsNS42LTIuNSw1LjYtNS42QzI2LjIsMjAsMjUuOCwxOC45LDI1LDE3LjkKCUMyNS4xLDE3LjksMjUuMSwxNy45LDI1LDE3Ljl6Ii8+Cjwvc3ZnPgo=\") !important;",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": true
+        },
+        "submenu": [
+          {
+            "id": "toplevel_page_ct-dashboard-admin.php?page=ct-dashboard",
+            "custom": false,
+            "name": "Dashboard",
+            "url": "admin.php?page=ct-dashboard",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_ct-dashboard-edit.php?post_type=ct_content_block",
+            "custom": false,
+            "name": "Content Blocks",
+            "url": "edit.php?post_type=ct_content_block",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_ct-dashboard-admin.php?page=ct-dashboard-account",
+            "custom": false,
+            "name": "Account",
+            "url": "admin.php?page=ct-dashboard-account",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          }
+        ],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "menu-posts",
+        "custom": false,
+        "name": "Posts",
+        "url": "edit.php",
+        "imageClasses": [
+          "wp-menu-image",
+          "dashicons-before",
+          "dashicons-admin-post"
+        ],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": true
+        },
+        "submenu": [
+          {
+            "id": "menu-posts-edit.php",
+            "custom": false,
+            "name": "All Posts",
+            "url": "edit.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-posts-post-new.php",
+            "custom": false,
+            "name": "Add Post",
+            "url": "post-new.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-posts-edit-tags.php?taxonomy=category",
+            "custom": false,
+            "name": "Categories",
+            "url": "edit-tags.php?taxonomy=category",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-posts-edit-tags.php?taxonomy=post_tag",
+            "custom": false,
+            "name": "Tags",
+            "url": "edit-tags.php?taxonomy=post_tag",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          }
+        ],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "menu-media",
+        "custom": false,
+        "name": "Media",
+        "url": "upload.php",
+        "imageClasses": [
+          "wp-menu-image",
+          "dashicons-before",
+          "dashicons-admin-media"
+        ],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": true
+        },
+        "submenu": [
+          {
+            "id": "menu-media-upload.php?page=indigetal-media-offload-for-bunny-net",
+            "custom": false,
+            "name": "Indigetal Media Offload",
+            "url": "upload.php?page=indigetal-media-offload-for-bunny-net",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-media-upload.php?page=indigetal-media-offload-for-bunny-net-account",
+            "custom": false,
+            "name": "Account",
+            "url": "upload.php?page=indigetal-media-offload-for-bunny-net-account",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-media-upload.php?page=indigetal-media-offload-for-bunny-net-contact",
+            "custom": false,
+            "name": "Contact Us",
+            "url": "upload.php?page=indigetal-media-offload-for-bunny-net-contact",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-media-https://wordpress.org/support/plugin/indigetal-media-offload-for-bunny-net",
+            "custom": false,
+            "name": "Support Forum",
+            "url": "https://wordpress.org/support/plugin/indigetal-media-offload-for-bunny-net",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "_blank",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-media-upload.php?page=indigetal-media-offload-for-bunny-net-pricing",
+            "custom": false,
+            "name": "Pricing&nbsp;&nbsp;➤",
+            "url": "upload.php?page=indigetal-media-offload-for-bunny-net-pricing",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          }
+        ],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "menu-pages",
+        "custom": false,
+        "name": "Pages",
+        "url": "edit.php?post_type=page",
+        "imageClasses": [
+          "wp-menu-image",
+          "dashicons-before",
+          "dashicons-admin-page"
+        ],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": true
+        },
+        "submenu": [
+          {
+            "id": "menu-pages-edit.php?post_type=page",
+            "custom": false,
+            "name": "All Pages",
+            "url": "edit.php?post_type=page",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-pages-post-new.php?post_type=page",
+            "custom": false,
+            "name": "Add Page",
+            "url": "post-new.php?post_type=page",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          }
+        ],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "menu-comments",
+        "custom": false,
+        "name": "Comments",
+        "url": "edit-comments.php",
+        "imageClasses": [
+          "wp-menu-image",
+          "dashicons-before",
+          "dashicons-admin-comments"
+        ],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": true
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "toplevel_page_pmpro-dashboard",
+        "custom": false,
+        "name": "Memberships",
+        "url": "admin.php?page=pmpro-dashboard",
+        "imageClasses": [
+          "wp-menu-image",
+          "svg"
+        ],
+        "iconStyles": "background-image: url(\"data:image/svg+xml;base64,PHN2ZyBpZD0iU3ZnanNTdmcxMDA2IiB3aWR0aD0iMjg4IiBoZWlnaHQ9IjI4OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczpzdmdqcz0iaHR0cDovL3N2Z2pzLmNvbS9zdmdqcyI+PGRlZnMgaWQ9IlN2Z2pzRGVmczEwMDciPjwvZGVmcz48ZyBpZD0iU3ZnanNHMTAwOCIgdHJhbnNmb3JtPSJtYXRyaXgoMSwwLDAsMSwwLDApIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDY1Mi44MTMgNjUzLjMzMyIgd2lkdGg9IjI4OCIgaGVpZ2h0PSIyODgiPjxwYXRoIGZpbGw9IiNmM2YxZjEiIGQ9Im0gNDI4MC4yMywyMjg5LjM2IDE3OC4xOSwtMTI0MC42MiAtMjgzMS4zMiwxNC40NyBjIC00Ljk2LC01LjkzIC05Ljg2LC0xMS44NCAtMTQuODUsLTE3Ljg0IC00LjkzLC01Ljg4IC05Ljg5LC0xMS43OSAtMTQuNzksLTE3Ljc2IC00Ljk2LC01Ljk0IC05LjgxLC0xMS44OCAtMTQuNzcsLTE3LjgyIC00Ljg3LC01Ljk4IC05LjgsLTExLjk2MiAtMTQuNjQsLTE3LjkzOCAtNC4zOCwtNS41IC04Ljc5LC0xMC45NzMgLTEzLjIsLTE2LjQ4MSAtNC40MSwtNS40NzMgLTguNzksLTExIC0xMy4xNywtMTYuNDkyIC00LjM4LC01LjUyIC04LjczLC0xMS4wNTkgLTEzLjExLC0xNi41OSAtNC4zMiwtNS40OCAtOC43MywtMTEuMDUxIC0xMy4wMiwtMTYuNTU5IGwgMzA1Ny4zMiwtNTUuNDAyIC0yMTEuOTMsMTQyNi4xMjIgLTgwLjcxLC03LjA5IiB0cmFuc2Zvcm09Im1hdHJpeCguMTMzMzMgMCAwIC0uMTMzMzMgMCA2NTMuMzMzKSIgY2xhc3M9InN2Z1NoYXBlIGNvbG9yMDAwMDAwLTAgc2VsZWN0YWJsZSI+PC9wYXRoPjxwYXRoIGZpbGw9IiNmM2YxZjEiIGQ9Im0gMTgzNi4xNSwxMzA2LjM0IGMgLTEwLjMyLC0xMS41MSAtMjAuNjIsLTIzLjEzIC0zMC45MSwtMzQuNzEgLTEwLjIxLC0xMS41MyAtMjAuNDIsLTIzLjIyIC0zMC42OSwtMzQuODUgLTEwLjE1LC0xMS42OSAtMjAuMzYsLTIzLjMyIC0zMC41NywtMzUuMDkgbCAyNTA5LjQ3LDE5LjMxIC0xNjAuMjcsMTIwMi4yNyAtMTkuMzIsMTQ1LjUyIC0xMDQuODcsLTExLjU3IDE0OC40MSwtMTE3MC43MSAtMjI1MC4yNywtNDUuNjcgYyAtMTAuMzgsLTExLjQ4IC0yMC43NCwtMjIuOTUgLTMwLjk4LC0zNC41IiB0cmFuc2Zvcm09Im1hdHJpeCguMTMzMzMgMCAwIC0uMTMzMzMgMCA2NTMuMzMzKSIgY2xhc3M9InN2Z1NoYXBlIGNvbG9yMDAwMDAwLTEgc2VsZWN0YWJsZSI+PC9wYXRoPjxwYXRoIGZpbGw9IiNmM2YxZjEiIGQ9Ik0zNzUwLjIxIDI4MTQuNzVsLTE2MC43OS0yMS4yNWMtMTYuNTYtMTAuNDYtMzMuMDctMjEuMDMtNDkuNjMtMzEuNjYtMTYuNDEtMTAuNTQtMzIuODMtMjEuMjEtNDkuMjItMzEuODYtMTYuNDQtMTAuNjgtMzIuNzQtMjEuNDItNDkuMTMtMzIuMjMtMTYuMjctMTAuNzgtMzIuNi0yMS43LTQ4LjgxLTMyLjY4LTIxLjktMTQuOC00My44My0yOS42NS02NS41NS00NC42LTIxLjc4LTE1LTQzLjQ4LTMwLjA3LTY1LjE3LTQ1LjI5LTIxLjU1LTE1LjIyLTQzLjEtMzAuNi02NC42Mi00Ni4wMi0yMS40Ni0xNS4zOC00Mi44Ny0zMC45Ny02NC4yNC00Ni42MS0xOC44My0xMy44Mi0zNy41Ni0yNy42OC01Ni4zOC00MS42My0xOC42Ni0xMy44OS0zNy40Mi0yNy44NC01Ni4wMS00MS45OC0xOC41OS0xNC4wOC0zNy4yMS0yOC4yNS01NS42OS00Mi40My0xOC41LTE0LjMzLTM2Ljk4LTI4LjY1LTU1LjM2LTQzLjEyLTExLjk2LTkuMzgtMjMuOTMtMTguOTEtMzUuODgtMjguNDQtMTEuODctOS40OC0yMy43OS0xOC45OC0zNS43MS0yOC41Ny0xMS44LTkuNTQtMjMuNzUtMTkuMS0zNS42NC0yOC43MS0xMS44MS05LjU5LTIzLjY3LTE5LjIzLTM1LjQyLTI4Ljg3LTQuNC0zLjctOC45My03LjMzLTEzLjMxLTExLjE0LTQuMzgtMy43LTguODctNy40Ni0xMy4yNS0xMS4yNC00LjQ3LTMuNzgtOC45MS03LjU1LTEzLjMxLTExLjI0LTQuNS0zLjgxLTguOTctNy40OC0xMy40My0xMS4yNy0xNS0xMi40NC0yOS45My0yNS4wMS00NC44MS0zNy41Ni0xNC44NS0xMi43Ni0yOS43My0yNS4zMy00NC40OS0zOC4wOS0xNC44LTEyLjc4LTI5LjU2LTI1LjU1LTQ0LjI3LTM4LjQ0LTE0Ljc2LTEyLjc4LTI5LjQ2LTI1LjY5LTQ0LjE3LTM4LjY0LTQ2LjU1LTQxLjEzLTkyLjc4LTgyLjg4LTEzOC42OS0xMjUuMjEtNDUuNzctNDIuMzEtOTEuMS04NS4wOS0xMzYuMDktMTI4LjQ1LTQ0Ljg3LTQzLjMzLTg5LjM2LTg3LjE2LTEzMy40MS0xMzEuNTItNDMuOTQtNDQuMzYtODcuNDgtODkuMjctMTMwLjYxLTEzNC43MmwxODk5LjMgNjIuMTQtMTMwLjM3IDExMzMuNjItMTUuODQgMTM3LjcxTTE4NDkuMzUgOTE5LjY4bC0zMzMuOCA2LjA1djBjLjI3LjM0IDQ1LjIyIDU3LjMyOSAxMTEuNTUgMTM3LjQ4djBsMzI4Ljk5LTEuNjhjLTM4LjE5LTQ4Ljk3LTczLjg0LTk2LjMzMS0xMDYuNzQtMTQxLjg1TTE3NDMuOTggMTIwMS42OWMxMC4yMSAxMS43NyAyMC40MiAyMy40IDMwLjU3IDM1LjA5IDEwLjEgMTEuNDQgMjAuMTUgMjIuOTQgMzAuMTkgMzQuMjkgMTcuNTEgMTkuMjkgMzQuNTYgMzcuNzcgNjIuMzkgNjkuNzd2MGwzMjQuOTYgNi42Yy00Mi4xNS00OC42My04Mi42My05Ni40My0xMjEuMzItMTQzLjI0bC0zMjYuNzktMi41MSIgdHJhbnNmb3JtPSJtYXRyaXgoLjEzMzMzIDAgMCAtLjEzMzMzIDAgNjUzLjMzMykiIGNsYXNzPSJzdmdTaGFwZSBjb2xvcjAwMDAwMC0yIHNlbGVjdGFibGUiPjwvcGF0aD48cGF0aCBmaWxsPSIjZjNmMWYxIiBkPSJtIDE5OTcuMTIsMTQ4MS4yOCBjIDQzLjEzLDQ1LjQ1IDg2LjY3LDkwLjM2IDEzMC42MSwxMzQuNzIgNDQuMDUsNDQuMzYgODguNTQsODguMTkgMTMzLjQxLDEzMS41MiA0NC45OSw0My4zNiA5MC4zMiw4Ni4xNCAxMzYuMDksMTI4LjQ1IDQ1LjkxLDQyLjMzIDkyLjE0LDg0LjA4IDEzOC42OSwxMjUuMjEgMTQuNzEsMTIuOTUgMjkuNDEsMjUuODYgNDQuMTcsMzguNjQgMTQuNzEsMTIuODkgMjkuNDcsMjUuNjYgNDQuMjcsMzguNDQgMTQuNzYsMTIuNzYgMjkuNjQsMjUuMzMgNDQuNDksMzguMDkgMTQuODgsMTIuNTUgMjkuODEsMjUuMTIgNDQuODEsMzcuNTYgNC40NiwzLjc5IDguOTMsNy40NiAxMy40MywxMS4yNyA0LjQsMy42OSA4Ljg0LDcuNDYgMTMuMzEsMTEuMjQgNC4zOCwzLjc4IDguODcsNy41NCAxMy4yNSwxMS4yNCA0LjM4LDMuODEgOC45MSw3LjQ0IDEzLjMxLDExLjE0IDExLjc1LDkuNjQgMjMuNjEsMTkuMjggMzUuNDIsMjguODcgMTEuODksOS42MSAyMy44NCwxOS4xNyAzNS42NCwyOC43MSAxMS45Miw5LjU5IDIzLjg0LDE5LjA5IDM1LjcxLDI4LjU3IDExLjk1LDkuNTMgMjMuOTIsMTkuMDYgMzUuODgsMjguNDQgMTguMzgsMTQuNDcgMzYuODYsMjguNzkgNTUuMzYsNDMuMTIgMTguNDgsMTQuMTggMzcuMSwyOC4zNSA1NS42OSw0Mi40MyAxOC41OSwxNC4xNCAzNy4zNSwyOC4wOSA1Ni4wMSw0MS45OCAxOC44MiwxMy45NSAzNy41NSwyNy44MSA1Ni4zOCw0MS42MyAyMS4zNywxNS42NCA0Mi43OCwzMS4yMyA2NC4yNCw0Ni42MSAyMS41MiwxNS40MiA0My4wNywzMC44IDY0LjYyLDQ2LjAyIDIxLjY5LDE1LjIyIDQzLjM5LDMwLjI5IDY1LjE3LDQ1LjI5IDIxLjcyLDE0Ljk1IDQzLjY1LDI5LjggNjUuNTUsNDQuNiAxNi4yMSwxMC45OCAzMi41NCwyMS45IDQ4LjgxLDMyLjY4IDE2LjM5LDEwLjgxIDMyLjY5LDIxLjU1IDQ5LjEzLDMyLjIzIDE2LjM5LDEwLjY1IDMyLjgxLDIxLjMyIDQ5LjIyLDMxLjg2IDE2LjU2LDEwLjYzIDMzLjA3LDIxLjIgNDkuNjMsMzEuNjYgbCAxNjAuNzksMjEuMjUgQyAzMjYzLjQ2LDI0NTEuMzYgMjczMi40OCwxOTQ4LjU2IDIzMTkuOTEsMTQ5MS44NCBsIC0zMjIuNzksLTEwLjU2IiB0cmFuc2Zvcm09Im1hdHJpeCguMTMzMzMgMCAwIC0uMTMzMzMgMCA2NTMuMzMzKSIgY2xhc3M9InN2Z1NoYXBlIGNvbG9yMDAwMDAwLTMgc2VsZWN0YWJsZSI+PC9wYXRoPjxwYXRoIGZpbGw9IiNmM2YxZjEiIGQ9Im0gNDYxNC44NywzNTY2LjgxIGMgLTkzLjA1LC0zNC42OSAtMTg2LjQ0LC03MC44IC0yNzkuOTcsLTEwOC4yOSAtOTIuMzgsLTM2Ljk5IC0xODQuOSwtNzUuMjkgLTI3Ny4yNSwtMTE0LjgxIC05MS4yMiwtMzkuMTMgLTE4Mi4zNCwtNzkuMzggLTI3My4xMywtMTIwLjg3IC0yLjM3LC0xIC00LjY3LC0yLjA0IC03LjA0LC0zLjE1IC0yLjI5LC0xLjA3IC00LjY0LC0yLjIgLTcuMDIsLTMuMzIgLTIuMzIsLTEuMTIgLTQuNjcsLTIuMjIgLTYuOTYsLTMuMzYgLTIuMzgsLTEuMTEgLTQuNjcsLTIuMjEgLTYuOTksLTMuMzQgLTczLjcsLTMzLjg2IC0xNDcuMjIsLTY4LjUzIC0yMjAuMjUsLTEwMy45NyAtNzIuNDYsLTM1LjEzIC0xNDQuNTksLTcxLjAyIC0yMTYuMjksLTEwNy41OSAtNzEuMDUsLTM2LjI2IC0xNDEuNzEsLTczLjI3IC0yMTEuODEsLTExMC45NyAtNjkuNTgsLTM3LjM2IC0xMzguNjEsLTc1LjM1IC0yMDcuMDUsLTExNC4wNCAtMjQuNDIsLTEzLjgyIC00OC43NiwtMjcuNzMgLTczLjA2LC00MS43MSAtMjQuMTYsLTEzLjg5IC00OC4yNiwtMjcuODYgLTcyLjI4LC00MS45MyAtMjQuMDEsLTE0LjExIC00Ny44MywtMjguMjYgLTcxLjYxLC00Mi41IC0yMy43LC0xNC4xOCAtNDcuMzMsLTI4LjQ0IC03MC44NiwtNDIuODQgLTIwLjQ0LC0xMi4zOCAtNDAuNzcsLTI0LjkxIC02MS4xMSwtMzcuNDQgLTIwLjIxLC0xMi41MSAtNDAuNDMsLTI1LjA5IC02MC41OSwtMzcuNzggLTIwLjA5LC0xMi42MSAtNDAuMTMsLTI1LjI0IC02MC4wOSwtMzguMDEgLTE5Ljg3LC0xMi43NyAtMzkuNzcsLTI1LjQ5IC01OS41NCwtMzguNCAtMTMuMiwtOC41NyAtMjYuMzEsLTE3LjE1IC0zOS40OCwtMjUuOCAtMTMuMTEsLTguNzEgLTI2LjIyLC0xNy4zMyAtMzkuMzMsLTI2LjA0IC0xMy4wMiwtOC42MyAtMjYuMDQsLTE3LjMzIC0zOS4wNiwtMjYuMDIgLTEzLC04LjcgLTI1LjksLTE3LjQzIC0zOC44NywtMjYuMjUgLTQuMzgsLTMuMDYgLTguODgsLTYuMTIgLTEzLjMxLC05LjIgLTQuNDEsLTMuMTEgLTguODUsLTYuMiAtMTMuMzcsLTkuMjYgLTQuNDEsLTMuMDYgLTguODgsLTYuMTIgLTEzLjMxLC05LjI0IC00LjQ0LC0zLjAzIC04LjgyLC02LjEgLTEzLjI5LC05LjEzIC0xNS44OSwtMTEuMDQgLTMxLjY3LC0yMi4wNyAtNDcuMzksLTMzLjE3IC0xNS42NiwtMTEuMDYgLTMxLjM1LC0yMi4xNyAtNDYuOTMsLTMzLjM1IC0xNS41NywtMTEuMDggLTMxLjE1LC0yMi4yNSAtNDYuNTgsLTMzLjUgLTE1LjQ2LC0xMS4xOSAtMzAuODYsLTIyLjQxIC00Ni4yNiwtMzMuNyAtMTAxLjUxLC03NC43IC0yMDAuNywtMTUxLjI4IC0yOTcuMjIsLTIyOS45NiAtOTUuNTIsLTc3Ljg5IC0xODguNjIsLTE1Ny45MSAtMjc4Ljc2LC0yNDAuMDMgLTg5LjM5LC04MS4zNyAtMTc2LjA4LC0xNjUuMTMgLTI1OS44MSwtMjUxLjA0IC04My4xNSwtODUuNDMgLTE2My40NjUsLTE3My4yMSAtMjQwLjYxNywtMjYzLjY2IC03LjA0NywtOC4xOSAtMTQuMDA4LC0xNi4zOCAtMjAuOTk2LC0yNC43MSAtNi45NjEsLTguMTYgLTEzLjkyNiwtMTYuNDQgLTIwLjg1NiwtMjQuNzEgLTYuODcxLC04LjI4IC0xMy44MDQsLTE2LjU5IC0yMC42NDgsLTI0Ljg0IC02Ljg0OCwtOC4zNSAtMTMuNjA2LC0xNi41OSAtMjAuNDIyLC0yNC45MiAtNS4yMTksLTYuMzIgLTEwLjQzOCwtMTIuNzEgLTE1LjQ4OCwtMTkuMTQgLTUuMTkyLC02LjQgLTEwLjMyNSwtMTIuOCAtMTUuNDI2LC0xOS4yNCAtNS4xMDYsLTYuNDIgLTEwLjI3LC0xMi44IC0xNS4yODUsLTE5LjIgLTUuMDIsLTYuNDQgLTEwLjAzNSwtMTIuOTEgLTE1LjA4MiwtMTkuMzMgLTIuNzg1LDMuMzUgLTUuNTEyLDYuNTggLTguMjM5LDkuODMgLTIuNzUzLDMuMjggLTUuNDIxLDYuNDUgLTguMDkzLDkuNjMgLTIuNjk2LDMuMDggLTUuMzY0LDYuMjcgLTguMDA0LDkuMzEgLTIuNjQxLDMuMTUgLTUuMjIzLDYuMjQgLTcuODMyLDkuMzIgLTI2LjEyOSwzMC45MSAtNTAuNjM3LDU5LjI3IC03My43ODIsODUuNzEgLTIyLjk3MiwyNi4xOSAtNDQuNjQsNTAuNTIgLTY1LjMyLDczLjU0IC0yMC41OSwyMi44MyAtNDAuMjgxLDQ0LjM2IC01OS4yNTQsNjUuMDUgLTE4LjkzNywyMC41NyAtMzcuMjExLDQwLjQyIC01NS4xNjQsNjAgLTQuNzI2LDUgLTkuNDI2LDEwLjA5IC0xNC4wNjIsMTUuMjEgLTQuNjcyLDUgLTkuMjgyLDEwLjA0IC0xMy45MjYsMTUuMTIgLTQuNTgyLDUuMDcgLTkuMjIzLDEwLjExIC0xMy44MDUsMTUuMTkgLTQuNTUxLDUuMDYgLTkuMTA5LDEwLjExIC0xMy42MDEsMTUuMjcgLTE5Ljk4NSwyMS44MiAtMzkuODUyLDQ0LjE0IC02MC4xODQsNjcuNDMgLTIwLjI0MiwyMy4xNSAtNDAuODM2LDQ3LjM4IC02Mi4zMDEsNzMuMTIgLTIxLjE2OCwyNS43IC00My4xODMsNTIuODkgLTY2LjMzMiw4Mi40NiAtMjIuOTM3LDI5LjI2IC00Ni45NTMsNjAuNjYgLTcyLjM5LDk0LjkgLTExLjQ4NSwxNS40IC0yMy4yODksMzEuMzggLTM1LjMyNSw0Ny45MyAtMTIuMDA3LDE2LjU0IC0yNC4zOTQxLDMzLjU4IC0zNy4wMTEzLDUxLjMzIC0xMi41Mjc0LDE3LjYyIC0yNS40OTIyLDM1Ljg4IC0zOC43Nzc0LDU0Ljg1IEMgMjcuNTIzNCwxODkxLjA5IDEzLjk0OTIsMTkxMC42IDAsMTkzMC44MyAyNy40OTYxLDE4NDIgNTMuNjI4OSwxNzU4LjMyIDc4LjgzMiwxNjc4Ljg4IGMgMjUuNjA5LC04MC43OSA1MC4xNDgsLTE1Ny4wMSA3My44NzEsLTIyOS41OCAyNC4xMDIsLTczLjcxIDQ3LjQyMiwtMTQzLjU2IDcwLjEwMiwtMjEwLjM5IDIzLjAyNywtNjggNDUuNTYyLC0xMzIuODYgNjcuOTI1LC0xOTUuNzYgNS4xOTYsLTE0LjY0IDEwLjMyOSwtMjkuMTYgMTUuNTE2LC00My42NjIgNS4xOTIsLTE0LjQ2OCAxMC4zMjgsLTI4Ljg0NyAxNS41MiwtNDMuMjUgNS4yMjIsLTE0LjMxNiAxMC40MTQsLTI4LjUxOSAxNS42MDEsLTQyLjc1OCA1LjE2NCwtMTQuMjY5IDEwLjQxLC0yOC41MTEgMTUuNjMzLC00Mi42NDggMi4zNTIsLTYuNDUzIDQuODQ0LC0xMi45NzMgNy4xOTUsLTE5LjQ5MiAyLjQwNywtNi41MzEgNC44NzEsLTEzLjA3IDcuMjc4LC0xOS41OTggMi40MSwtNi41MTIgNC44NDMsLTEzLjA2MiA3LjMwOCwtMTkuNjEzIDIuNDEsLTYuNTI3IDQuODc1LC0xMy4xNjggNy4zNCwtMTkuNjggMi41NTEsLTYuNzUgNS4wNzQsLTEzLjUzOSA3LjYyNSwtMjAuMTc5IDIuNTgyLC02LjgwOSA1LjEwNiwtMTMuNTcxIDcuNzE5LC0yMC4zNiAyLjU4MiwtNi43ODEgNS4xNiwtMTMuNTMxIDcuNzE1LC0yMC4zMDggMi42MDksLTYuNzkzIDUuMTYsLTEzLjU2MyA3LjgsLTIwLjQxMSAxLjg2LC00Ljg5IDMuNjg0LC05LjY2IDUuNTQsLTE0LjU3IDEuOTcyLC00Ljg3MSAzLjc2OSwtOS44MTIgNS43MTQsLTE0LjY1MiAxLjg2LC00LjkzIDMuNzk3LC05Ljc1OCA1LjcxMSwtMTQuNjE3IDEuODYsLTQuOTczIDMuODAxLC05LjgxMyA1Ljc0NiwtMTQuODIxIDAuNzgyLC0yLjA2MiAxLjU2MywtNC4xNiAyLjM3OSwtNi4yNjEgMC43ODUsLTIuMDU5IDEuNTk0LC00LjE2MSAyLjQzNCwtNi4yMzkgMC43ODUsLTIuMDcgMS41OTgsLTQuMTc5IDIuMzc5LC02LjI2MSAwLjg0LC0yLjA5IDEuNjgsLTQuMTI5IDIuNDY1LC02LjI4MiAyLjY2OCwtNi42NTYgNS4yNSwtMTMuMzI4IDcuODYzLC0yMC4wMjcgMi42MDUsLTYuNjk5IDUuMjQ2LC0xMy40NjEgNy44ODcsLTIwLjE3MiAyLjYzNiwtNi43NjkgNS4yODEsLTEzLjUxOSA4LjAwNCwtMjAuMjY5IDIuNjQsLTYuNzgyIDUuMjgxLC0xMy41NTkgNy45MTgsLTIwLjUgbCAtMS44MjUsLTYuODcyIDQuMDMyLDEuNTcxIGMgMTUuODYzLC0zOS45NjkgMzIuMDE5LC04MC41MiA0OC43ODEsLTEyMi4wNDcgMTYuODIsLTQxLjg4MyAzNC4yNTQsLTg0Ljc4MSA1Mi4zODMsLTEyOS4wNTEgMTguMTgzLC00NC42OCAzNy4xNTIsLTkwLjY5MSA1Ni45MDIsLTEzOC42OCBDIDY1Ny4yNSwxMDMgNjc4LjA3LDUyLjcxMDkgNjk5Ljg4MywwIGMgMzYuNDg0LDY2LjM5MDYgNzMuNjk5LDEzMS45MjIgMTExLjY2NCwxOTYuNTEyIDM3LjkzNyw2NC41NzggNzYuNTM5LDEyOC4yNzcgMTE1Ljg5OCwxOTEuMTI5IDM5LjM2LDYyLjg3OSA3OS40NjUsMTI0Ljk0MSAxMjAuMTM1LDE4Ni4xMjkgNDAuODEsNjEuMjQyIDgyLjE2LDEyMS42NzEgMTI0LjMxLDE4MS4zMTIgMC44NywxLjE2OCAxLjY4LDIuMzg3IDIuNTIsMy42MTcgMC44NywxLjIzMSAxLjc0LDIuNDczIDIuNjEsMy42OTkgMC45MywxLjEzMyAxLjc3LDIuMzcyIDIuNjEsMy42MDIgMC44NywxLjE5OSAxLjc0LDIuNDYxIDIuNTIsMy42MDIgOC4xOCwxMS40OCAxNi4yNywyMi44OTggMjQuNDUsMzQuMjY5IDguMjEsMTEuNDM4IDE2LjI4LDIyLjc3IDI0LjU3LDM0LjA1MSA4LjE4LDExLjM2NyAxNi4zNiwyMi42OTkgMjQuNTksMzMuODc5IDguMjQsMTEuMjY5IDE2LjU3LDIyLjUzMSAyNC44LDMzLjc4MSA3LjE3LDkuNjY4IDE0LjI3LDE5LjI3NyAyMS40NCwyOC43NzcgNy4xNiw5LjYxIDE0LjM4LDE5LjEyOSAyMS41NSwyOC42NDEgNy4xNiw5LjUxMiAxNC40NywxOC45OCAyMS42MSwyOC40NDkgNy4zLDkuNDMxIDE0LjUyLDE4LjkxMSAyMS43NSwyOC40MTEgMS4zLDEuNzEgMi42NiwzLjUgMy45Nyw1LjI5IDEuMjgsMS42NiAyLjU4LDMuMzggMy45Miw1LjE4IDEuMjcsMS43IDIuNTUsMy40NCAzLjg1LDUuMTIgMS4zNCwxLjczIDIuNjcsMy40MSAzLjk4LDUuMDYgOC43LDExLjM5IDE3LjQzLDIyLjYgMjYuMjIsMzQgOC43OCwxMS4xNiAxNy41NywyMi40MSAyNi40MiwzMy41NyA4LjksMTEuMjYgMTcuNzIsMjIuMzYgMjYuNiwzMy41MiA4LjkzLDExLjIgMTcuODksMjIuMjQgMjYuODIsMzMuMjQgOC45OSwxMS4yIDE4LjAxLDIyLjM5IDI3LjAzLDMzLjQyIDkuMDUsMTEuMTcgMTguMTMsMjIuMyAyNy4yMSwzMy4zMyA5LjA4LDExLjExIDE4LjE5LDIyLjExIDI3LjM1LDMzLjE4IDkuMTQsMTAuOTcgMTguMjcsMjIgMjcuNTIsMzIuOTggNjUuMTUsNzcuNTMgMTMxLjQ4LDE1My40NiAxOTguODUsMjI3LjkzIDY3LjYxLDc0LjY2IDEzNi4zMiwxNDcuOTYgMjA2LjEsMjE5Ljc0IDcwLjA3LDcyLjA1IDE0MS4xMywxNDIuNyAyMTMuMTgsMjExLjcgNzIuNTEsNjkuNDkgMTQ1Ljk0LDEzNy40NiAyMjAuMjIsMjAzLjkxIDE0LjMzLDEyLjc5IDI4LjcyLDI1LjU2IDQzLjEsMzguMjUgMTQuMzksMTIuNzEgMjguNzcsMjUuMzggNDMuMjIsMzcuOTUgMTQuNTMsMTIuNjIgMjguOTcsMjUuMTUgNDMuNTksMzcuNjIgMTQuNTMsMTIuNTIgMjkuMDYsMjQuOTQgNDMuNjgsMzcuMjQgNC40MSwzLjY5IDguODIsNy40MyAxMy4xMSwxMS4xNSA0LjMyLDMuNjkgOC43Myw3LjQxIDEzLjAyLDExLjE0IDQuMzIsMy43MyA4LjY3LDcuNDcgMTMuMDIsMTEuMTcgNC4yNywzLjc1IDguNjIsNy4zNiAxMi45NCwxMC45NiAxMS41MSw5LjYxIDIzLjA4LDE5LjIgMzQuNjYsMjguNzQgMTEuNTQsOS40MyAyMy4xMSwxOC45MyAzNC43NCwyOC40MSAxMS42LDkuNDQgMjMuMjMsMTguODYgMzQuOTIsMjguMjIgMTEuNjMsOS4zNSAyMy4zMiwxOC43OCAzNS4wMSwyOC4xMiAxOC4wMSwxNC4zMSAzNi4wNSwyOC41OCA1NC4xMiw0Mi42MiAxOC4wNywxNC4yMiAzNi4yMywyOC4xOCA1NC4zNSw0Mi4xMyAxOC4xOSwxNC4wMSAzNi40NiwyNy44MSA1NC42NSw0MS42NSAxOC4yNywxMy43OCAzNi42MywyNy41MSA1NC45Niw0MS4yNCAyMC44MiwxNS41MiA0MS43MSwzMC45IDYyLjY0LDQ2LjIyIDIxLjAxLDE1LjMgNDIuMDMsMzAuNTEgNjMuMDYsNDUuNTUgMjEuMTEsMTUuMTEgNDIuMzIsMzAuMDkgNjMuNDksNDQuOTUgMjEuMjMsMTQuOTMgNDIuNTIsMjkuNjIgNjMuODYsNDQuMzIgNDAuMjksMjcuNjcgODAuNjYsNTQuOTUgMTIxLjEyLDgxLjc4IDQwLjcyLDI2LjkzIDgxLjUzLDUzLjQyIDEyMi40OCw3OS40MyA0MS4wNCwyNi4xMSA4Mi4zMiw1MS44NCAxMjMuNjUsNzcuMDEgNDEuNjIsMjUuMjIgODMuMjksNTAuMDUgMTI1LjA2LDc0LjM3IDkxLjg4LDUzLjQ1IDE4NC4yLDEwNC42MSAyNzYuNzgsMTUzLjIxIDkzLjYyLDQ5LjE0IDE4Ny41NCw5NS44MyAyODEuNDgsMTM5Ljc4IDk1LjA0LDQ0LjM5IDE5MC4yMyw4Ni4xIDI4NS4zMSwxMjQuOTMgOTYuMiwzOS4xOSAxOTIuMjksNzUuNDkgMjg3Ljk3LDEwOC42MiAtOTMuMjQsLTMyLjIyIC0xODcuMSwtNjUuODggLTI4MS4yNywtMTAxIiB0cmFuc2Zvcm09Im1hdHJpeCguMTMzMzMgMCAwIC0uMTMzMzMgMCA2NTMuMzMzKSIgY2xhc3M9InN2Z1NoYXBlIGNvbG9yMDAwMDAwLTQgc2VsZWN0YWJsZSI+PC9wYXRoPjxwYXRoIGZpbGw9IiNmM2YxZjEiIGQ9Im0gNjk5Ljg4MywwIGMgLTAuMDU1LDAuMTI4OTA2IC0wLjExLDAuMjYxNzE5IC0wLjE2NCwwLjM5MDYyNSAwLjA1NCwtMC4xMjg5MDYgMC4xMDksLTAuMjYxNzE5IDAuMTY0LC0wLjM5MDYyNSAzNi40ODQsNjYuMzkwNiA3My42OTksMTMxLjkyMiAxMTEuNjY0LDE5Ni41MTIgMzcuOTM3LDY0LjU3OCA3Ni41MzksMTI4LjI3NyAxMTUuODk4LDE5MS4xMjkgMzkuMzYsNjIuODc5IDc5LjQ2NSwxMjQuOTQxIDEyMC4xMzUsMTg2LjEyOSA0MC44MSw2MS4yNDIgODIuMTYsMTIxLjY3MSAxMjQuMzEsMTgxLjMxMiAwLjg3LDEuMTY4IDEuNjgsMi4zODcgMi41MiwzLjYxNyAwLjg3LDEuMjMxIDEuNzQsMi40NzMgMi42MSwzLjY5OSAwLjkzLDEuMTMzIDEuNzcsMi4zNzIgMi42MSwzLjYwMiAwLjg3LDEuMTk5IDEuNzQsMi40NjEgMi41MiwzLjYwMiA4LjE4LDExLjQ4IDE2LjI3LDIyLjg5OCAyNC40NSwzNC4yNjkgOC4yMSwxMS40MzggMTYuMjgsMjIuNzcgMjQuNTcsMzQuMDUxIDguMTgsMTEuMzY3IDE2LjM2LDIyLjY5OSAyNC41OSwzMy44NzkgOC4yNCwxMS4yNjkgMTYuNTcsMjIuNTMxIDI0LjgsMzMuNzgxIDcuMTcsOS42NjggMTQuMjcsMTkuMjc3IDIxLjQ0LDI4Ljc3NyA3LjE2LDkuNjEgMTQuMzgsMTkuMTI5IDIxLjU1LDI4LjY0MSA3LjE2LDkuNTEyIDE0LjQ3LDE4Ljk4IDIxLjYxLDI4LjQ0OSA3LjMsOS40MzEgMTQuNTIsMTguOTExIDIxLjc1LDI4LjQxMSAxLjMsMS43MSAyLjY2LDMuNSAzLjk3LDUuMjkgMS4yOCwxLjY2IDIuNTgsMy4zOCAzLjkyLDUuMTggMS4yNywxLjcgMi41NSwzLjQ0IDMuODUsNS4xMiAxLjM0LDEuNzMgMi42NywzLjQxIDMuOTgsNS4wNiA4LjcsMTEuMzkgMTcuNDMsMjIuNiAyNi4yMiwzNCA4Ljc4LDExLjE2IDE3LjU3LDIyLjQxIDI2LjQyLDMzLjU3IDguOSwxMS4yNiAxNy43MiwyMi4zNiAyNi42LDMzLjUyIDguOTMsMTEuMiAxNy44OSwyMi4yNCAyNi44MiwzMy4yNCA4Ljk5LDExLjIgMTguMDEsMjIuMzkgMjcuMDMsMzMuNDIgOS4wNSwxMS4xNyAxOC4xMywyMi4zIDI3LjIxLDMzLjMzIDkuMDgsMTEuMTEgMTguMTksMjIuMTEgMjcuMzUsMzMuMTggOS4xNCwxMC45NyAxOC4yNywyMiAyNy41MiwzMi45OCA2NS4xNSw3Ny41MyAxMzEuNDgsMTUzLjQ2IDE5OC44NSwyMjcuOTMgNjcuNjEsNzQuNjYgMTM2LjMyLDE0Ny45NiAyMDYuMSwyMTkuNzQgNzAuMDcsNzIuMDUgMTQxLjEzLDE0Mi43IDIxMy4xOCwyMTEuNyA3Mi41MSw2OS40OSAxNDUuOTQsMTM3LjQ2IDIyMC4yMiwyMDMuOTEgMTQuMzMsMTIuNzkgMjguNzIsMjUuNTYgNDMuMSwzOC4yNSAxNC4zOSwxMi43MSAyOC43NywyNS4zOCA0My4yMiwzNy45NSAxNC41MywxMi42MiAyOC45NywyNS4xNSA0My41OSwzNy42MiAxNC41MywxMi41MiAyOS4wNiwyNC45NCA0My42OCwzNy4yNCA0LjQxLDMuNjkgOC44Miw3LjQzIDEzLjExLDExLjE1IDQuMzIsMy42OSA4LjczLDcuNDEgMTMuMDIsMTEuMTQgNC4zMiwzLjczIDguNjcsNy40NyAxMy4wMiwxMS4xNyA0LjI3LDMuNzUgOC42Miw3LjM2IDEyLjk0LDEwLjk2IDExLjUxLDkuNjEgMjMuMDgsMTkuMiAzNC42NiwyOC43NCAxMS41NCw5LjQzIDIzLjExLDE4LjkzIDM0Ljc0LDI4LjQxIDExLjYsOS40NCAyMy4yMywxOC44NiAzNC45MiwyOC4yMiAxMS42Myw5LjM1IDIzLjMyLDE4Ljc4IDM1LjAxLDI4LjEyIDE4LjAxLDE0LjMxIDM2LjA1LDI4LjU4IDU0LjEyLDQyLjYyIDE4LjA3LDE0LjIyIDM2LjIzLDI4LjE4IDU0LjM1LDQyLjEzIDE4LjE5LDE0LjAxIDM2LjQ2LDI3LjgxIDU0LjY1LDQxLjY1IDE4LjI3LDEzLjc4IDM2LjYzLDI3LjUxIDU0Ljk2LDQxLjI0IDIwLjgyLDE1LjUyIDQxLjcxLDMwLjkgNjIuNjQsNDYuMjIgMjEuMDEsMTUuMyA0Mi4wMywzMC41MSA2My4wNiw0NS41NSAyMS4xMSwxNS4xMSA0Mi4zMiwzMC4wOSA2My40OSw0NC45NSAyMS4yMywxNC45MyA0Mi41MiwyOS42MiA2My44Niw0NC4zMiA0MC4yOSwyNy42NyA4MC42Niw1NC45NSAxMjEuMTIsODEuNzggNDAuNzIsMjYuOTMgODEuNTMsNTMuNDIgMTIyLjQ4LDc5LjQzIDQxLjA0LDI2LjExIDgyLjMyLDUxLjg0IDEyMy42NSw3Ny4wMSA0MS42MiwyNS4yMiA4My4yOSw1MC4wNSAxMjUuMDYsNzQuMzcgOTEuODgsNTMuNDUgMTg0LjIsMTA0LjYxIDI3Ni43OCwxNTMuMjEgOTMuNjIsNDkuMTQgMTg3LjU0LDk1LjgzIDI4MS40OCwxMzkuNzggOTUuMDQsNDQuMzkgMTkwLjIzLDg2LjEgMjg1LjMxLDEyNC45MyA5Ni4yLDM5LjE5IDE5Mi4yOSw3NS40OSAyODcuOTcsMTA4LjYyIHYgMCBjIC05NS42OCwtMzMuMTMgLTE5MS43NywtNjkuNDMgLTI4Ny45NywtMTA4LjYyIC05NS4wOCwtMzguODMgLTE5MC4yNywtODAuNTQgLTI4NS4zMSwtMTI0LjkzIC05My45NCwtNDMuOTUgLTE4Ny44NiwtOTAuNjQgLTI4MS40OCwtMTM5Ljc4IC05Mi41OCwtNDguNiAtMTg0LjksLTk5Ljc2IC0yNzYuNzgsLTE1My4yMSAtNDEuNzcsLTI0LjMyIC04My40NCwtNDkuMTUgLTEyNS4wNiwtNzQuMzcgLTQxLjMzLC0yNS4xNyAtODIuNjEsLTUwLjkgLTEyMy42NSwtNzcuMDEgLTQwLjk1LC0yNi4wMSAtODEuNzYsLTUyLjUgLTEyMi40OCwtNzkuNDMgLTQwLjQ2LC0yNi44MyAtODAuODMsLTU0LjExIC0xMjEuMTIsLTgxLjc4IC0yMS4zNCwtMTQuNyAtNDIuNjMsLTI5LjM5IC02My44NiwtNDQuMzIgLTIxLjE3LC0xNC44NiAtNDIuMzgsLTI5Ljg0IC02My40OSwtNDQuOTUgLTIxLjAzLC0xNS4wNCAtNDIuMDUsLTMwLjI1IC02My4wNiwtNDUuNTUgLTIwLjkzLC0xNS4zMiAtNDEuODIsLTMwLjcgLTYyLjY0LC00Ni4yMiAtMTguMzMsLTEzLjczIC0zNi42OSwtMjcuNDYgLTU0Ljk2LC00MS4yNCAtMTguMTksLTEzLjg0IC0zNi40NiwtMjcuNjQgLTU0LjY1LC00MS42NSAtMTguMTIsLTEzLjk1IC0zNi4yOCwtMjcuOTEgLTU0LjM1LC00Mi4xMyAtMTguMDcsLTE0LjA0IC0zNi4xMSwtMjguMzEgLTU0LjEyLC00Mi42MiAtMTEuNjksLTkuMzQgLTIzLjM4LC0xOC43NyAtMzUuMDEsLTI4LjEyIC0xMS42OSwtOS4zNiAtMjMuMzIsLTE4Ljc4IC0zNC45MiwtMjguMjIgLTExLjYzLC05LjQ4IC0yMy4yLC0xOC45OCAtMzQuNzQsLTI4LjQxIC0xMS41OCwtOS41NCAtMjMuMTUsLTE5LjEzIC0zNC42NiwtMjguNzQgLTQuMzIsLTMuNiAtOC42NywtNy4yMSAtMTIuOTQsLTEwLjk2IC00LjM1LC0zLjcgLTguNywtNy40NCAtMTMuMDIsLTExLjE3IC00LjI5LC0zLjczIC04LjcsLTcuNDUgLTEzLjAyLC0xMS4xNCAtNC4yOSwtMy43MiAtOC43LC03LjQ2IC0xMy4xMSwtMTEuMTUgLTE0LjYyLC0xMi4zIC0yOS4xNSwtMjQuNzIgLTQzLjY4LC0zNy4yNCAtMTQuNjIsLTEyLjQ3IC0yOS4wNiwtMjUgLTQzLjU5LC0zNy42MiAtMTQuNDUsLTEyLjU3IC0yOC44MywtMjUuMjQgLTQzLjIyLC0zNy45NSAtMTQuMzgsLTEyLjY5IC0yOC43NywtMjUuNDYgLTQzLjEsLTM4LjI1IC03NC4yOCwtNjYuNDUgLTE0Ny43MSwtMTM0LjQyIC0yMjAuMjIsLTIwMy45MSAtNzIuMDUsLTY5IC0xNDMuMTEsLTEzOS42NSAtMjEzLjE4LC0yMTEuNyAtNjkuNzgsLTcxLjc4IC0xMzguNDksLTE0NS4wOCAtMjA2LjEsLTIxOS43NCAtNjcuMzcsLTc0LjQ3IC0xMzMuNywtMTUwLjQgLTE5OC44NSwtMjI3LjkzIC05LjI1LC0xMC45OCAtMTguMzgsLTIyLjAxIC0yNy41MiwtMzIuOTggLTkuMTYsLTExLjA3IC0xOC4yNywtMjIuMDcgLTI3LjM1LC0zMy4xOCAtOS4wOCwtMTEuMDMgLTE4LjE2LC0yMi4xNiAtMjcuMjEsLTMzLjMzIC05LjAyLC0xMS4wMyAtMTguMDQsLTIyLjIyIC0yNy4wMywtMzMuNDIgLTguOTMsLTExIC0xNy44OSwtMjIuMDQgLTI2LjgyLC0zMy4yNCAtOC44OCwtMTEuMTYgLTE3LjcsLTIyLjI2IC0yNi42LC0zMy41MiAtOC44NSwtMTEuMTYgLTE3LjY0LC0yMi40MSAtMjYuNDIsLTMzLjU3IC04Ljc5LC0xMS40IC0xNy41MiwtMjIuNjEgLTI2LjIyLC0zNCAtMS4zMSwtMS42NSAtMi42NCwtMy4zMyAtMy45OCwtNS4wNiAtMS4zLC0xLjY4IC0yLjU4LC0zLjQyIC0zLjg1LC01LjEyIC0xLjM0LC0xLjggLTIuNjQsLTMuNTIgLTMuOTIsLTUuMTggLTEuMzEsLTEuNzkgLTIuNjcsLTMuNTggLTMuOTcsLTUuMjkgLTcuMjMsLTkuNSAtMTQuNDUsLTE4Ljk4IC0yMS43NSwtMjguNDExIC03LjE0LC05LjQ2OSAtMTQuNDUsLTE4LjkzNyAtMjEuNjEsLTI4LjQ0OSAtNy4xNywtOS41MTIgLTE0LjM5LC0xOS4wMzEgLTIxLjU1LC0yOC42NDEgLTcuMTcsLTkuNSAtMTQuMjcsLTE5LjEwOSAtMjEuNDQsLTI4Ljc3NyAtOC4yMywtMTEuMjUgLTE2LjU2LC0yMi41MTIgLTI0LjgsLTMzLjc4MSAtOC4yMywtMTEuMTggLTE2LjQxLC0yMi41MTIgLTI0LjU5LC0zMy44NzkgLTguMjksLTExLjI4MSAtMTYuMzYsLTIyLjYxMyAtMjQuNTcsLTM0LjA1MSAtOC4xOCwtMTEuMzcxIC0xNi4yNywtMjIuNzg5IC0yNC40NSwtMzQuMjY5IC0wLjc4LC0xLjE0MSAtMS42NSwtMi40MDMgLTIuNTIsLTMuNjAyIC0wLjg0LC0xLjIzIC0xLjY4LC0yLjQ2OSAtMi42MSwtMy42MDIgLTAuODcsLTEuMjI2IC0xLjc0LC0yLjQ2OCAtMi42MSwtMy42OTkgLTAuODQsLTEuMjMgLTEuNjUsLTIuNDQ5IC0yLjUyLC0zLjYxNyAtNDIuMTUsLTU5LjY0MSAtODMuNSwtMTIwLjA3IC0xMjQuMzEsLTE4MS4zMTIgQyAxMDA2LjkxLDUxMi41ODIgOTY2LjgwNSw0NTAuNTIgOTI3LjQ0NSwzODcuNjQxIDg4OC4wODYsMzI0Ljc4OSA4NDkuNDg0LDI2MS4wOSA4MTEuNTQ3LDE5Ni41MTIgNzczLjU4MiwxMzEuOTIyIDczNi4zNjcsNjYuMzkwNiA2OTkuODgzLDAgbSAtNjIuNTg2LDE1MS40NDEgaCAtMC4wMDQgdiAwIE0gMzMxOS45NywyOTk4LjExIGMgMCwwIDAsMCAwLjAxLDAgLTAuMDEsLTAuMDEgMCwwIC0wLjAxLDAgbSAyMTUuMDgsMTA3IGMgMC40LDAuMiAwLjgsMC4zOSAxLjIxLDAuNTkgLTAuNDEsLTAuMiAtMC44MSwtMC40IC0xLjIxLC0wLjU5IiB0cmFuc2Zvcm09Im1hdHJpeCguMTMzMzMgMCAwIC0uMTMzMzMgMCA2NTMuMzMzKSIgY2xhc3M9InN2Z1NoYXBlIGNvbG9yMDAwMDAwLTUgc2VsZWN0YWJsZSI+PC9wYXRoPjxwYXRoIGZpbGw9IiNmM2YxZjEiIGQ9Ik02OTkuODgzIDBjLS4wNTUuMTI4OTA2LS4xMS4yNjE3MTktLjE2NC4zOTA2MjVDNjc3Ljk0MSA1My4wMzEzIDYzNy41NjYgMTUwLjc4MSA2MzcuMjk3IDE1MS40NDFjLS4wMDQgMC0uMDA0IDAtLjAwNCAwdjAgMCAwTDU3Mi41MDQgMzA5LjQxQzE0NzcuOTUgMTc5Ni4zOSAyNzg5LjQyIDI2NDguMzMgMzMxOS45NyAyOTk4LjExdjBjLjAxIDAgMC0uMDEuMDEgMCAuNDUuMjIgMTQyLjM1IDcxLjcyIDIxNS4wNyAxMDcgLjQuMTkuOC4zOSAxLjIxLjU5djBjNzMuMDMgMzUuNDQgMTQ2LjU1IDcwLjExIDIyMC4yNSAxMDMuOTcgMi4zMiAxLjEzIDQuNjEgMi4yMyA2Ljk5IDMuMzQgMi4yOSAxLjE0IDQuNjQgMi4yNCA2Ljk2IDMuMzYgMi4zOCAxLjEyIDQuNzMgMi4yNSA3LjAyIDMuMzIgMi4zNyAxLjExIDQuNjcgMi4xNSA3LjA0IDMuMTUgOTAuNzkgNDEuNDkgMTgxLjkxIDgxLjc0IDI3My4xMyAxMjAuODcgOTIuMzUgMzkuNTIgMTg0Ljg3IDc3LjgyIDI3Ny4yNSAxMTQuODEgOTMuNTMgMzcuNDkgMTg2LjkyIDczLjYgMjc5Ljk3IDEwOC4yOSA5NC4xNyAzNS4xMiAxODguMDMgNjguNzggMjgxLjI3IDEwMS05NS42OC0zMy4xMy0xOTEuNzctNjkuNDMtMjg3Ljk3LTEwOC42Mi05NS4wOC0zOC44My0xOTAuMjctODAuNTQtMjg1LjMxLTEyNC45My05My45NC00My45NS0xODcuODYtOTAuNjQtMjgxLjQ4LTEzOS43OC05Mi41OC00OC42LTE4NC45LTk5Ljc2LTI3Ni43OC0xNTMuMjEtNDEuNzctMjQuMzItODMuNDQtNDkuMTUtMTI1LjA2LTc0LjM3LTQxLjMzLTI1LjE3LTgyLjYxLTUwLjktMTIzLjY1LTc3LjAxLTQwLjk1LTI2LjAxLTgxLjc2LTUyLjUtMTIyLjQ4LTc5LjQzLTQwLjQ2LTI2LjgzLTgwLjgzLTU0LjExLTEyMS4xMi04MS43OC0yMS4zNC0xNC43LTQyLjYzLTI5LjM5LTYzLjg2LTQ0LjMyLTIxLjE3LTE0Ljg2LTQyLjM4LTI5Ljg0LTYzLjQ5LTQ0Ljk1LTIxLjAzLTE1LjA0LTQyLjA1LTMwLjI1LTYzLjA2LTQ1LjU1LTIwLjkzLTE1LjMyLTQxLjgyLTMwLjctNjIuNjQtNDYuMjItMTguMzMtMTMuNzMtMzYuNjktMjcuNDYtNTQuOTYtNDEuMjQtMTguMTktMTMuODQtMzYuNDYtMjcuNjQtNTQuNjUtNDEuNjUtMTguMTItMTMuOTUtMzYuMjgtMjcuOTEtNTQuMzUtNDIuMTMtMTguMDctMTQuMDQtMzYuMTEtMjguMzEtNTQuMTItNDIuNjItMTEuNjktOS4zNC0yMy4zOC0xOC43Ny0zNS4wMS0yOC4xMi0xMS42OS05LjM2LTIzLjMyLTE4Ljc4LTM0LjkyLTI4LjIyLTExLjYzLTkuNDgtMjMuMi0xOC45OC0zNC43NC0yOC40MS0xMS41OC05LjU0LTIzLjE1LTE5LjEzLTM0LjY2LTI4Ljc0LTQuMzItMy42LTguNjctNy4yMS0xMi45NC0xMC45Ni00LjM1LTMuNy04LjctNy40NC0xMy4wMi0xMS4xNy00LjI5LTMuNzMtOC43LTcuNDUtMTMuMDItMTEuMTQtNC4yOS0zLjcyLTguNy03LjQ2LTEzLjExLTExLjE1LTE0LjYyLTEyLjMtMjkuMTUtMjQuNzItNDMuNjgtMzcuMjQtMTQuNjItMTIuNDctMjkuMDYtMjUtNDMuNTktMzcuNjItMTQuNDUtMTIuNTctMjguODMtMjUuMjQtNDMuMjItMzcuOTUtMTQuMzgtMTIuNjktMjguNzctMjUuNDYtNDMuMS0zOC4yNS03NC4yOC02Ni40NS0xNDcuNzEtMTM0LjQyLTIyMC4yMi0yMDMuOTEtNzIuMDUtNjktMTQzLjExLTEzOS42NS0yMTMuMTgtMjExLjctNjkuNzgtNzEuNzgtMTM4LjQ5LTE0NS4wOC0yMDYuMS0yMTkuNzQtNjcuMzctNzQuNDctMTMzLjctMTUwLjQtMTk4Ljg1LTIyNy45My05LjI1LTEwLjk4LTE4LjM4LTIyLjAxLTI3LjUyLTMyLjk4LTkuMTYtMTEuMDctMTguMjctMjIuMDctMjcuMzUtMzMuMTgtOS4wOC0xMS4wMy0xOC4xNi0yMi4xNi0yNy4yMS0zMy4zMy05LjAyLTExLjAzLTE4LjA0LTIyLjIyLTI3LjAzLTMzLjQyLTguOTMtMTEtMTcuODktMjIuMDQtMjYuODItMzMuMjQtOC44OC0xMS4xNi0xNy43LTIyLjI2LTI2LjYtMzMuNTItOC44NS0xMS4xNi0xNy42NC0yMi40MS0yNi40Mi0zMy41Ny04Ljc5LTExLjQtMTcuNTItMjIuNjEtMjYuMjItMzQtMS4zMS0xLjY1LTIuNjQtMy4zMy0zLjk4LTUuMDYtMS4zLTEuNjgtMi41OC0zLjQyLTMuODUtNS4xMi0xLjM0LTEuOC0yLjY0LTMuNTItMy45Mi01LjE4LTEuMzEtMS43OS0yLjY3LTMuNTgtMy45Ny01LjI5LTcuMjMtOS41LTE0LjQ1LTE4Ljk4LTIxLjc1LTI4LjQxMS03LjE0LTkuNDY5LTE0LjQ1LTE4LjkzNy0yMS42MS0yOC40NDktNy4xNy05LjUxMi0xNC4zOS0xOS4wMzEtMjEuNTUtMjguNjQxLTcuMTctOS41LTE0LjI3LTE5LjEwOS0yMS40NC0yOC43NzctOC4yMy0xMS4yNS0xNi41Ni0yMi41MTItMjQuOC0zMy43ODEtOC4yMy0xMS4xOC0xNi40MS0yMi41MTItMjQuNTktMzMuODc5LTguMjktMTEuMjgxLTE2LjM2LTIyLjYxMy0yNC41Ny0zNC4wNTEtOC4xOC0xMS4zNzEtMTYuMjctMjIuNzg5LTI0LjQ1LTM0LjI2OS0uNzgtMS4xNDEtMS42NS0yLjQwMy0yLjUyLTMuNjAyLS44NC0xLjIzLTEuNjgtMi40NjktMi42MS0zLjYwMi0uODctMS4yMjYtMS43NC0yLjQ2OC0yLjYxLTMuNjk5LS44NC0xLjIzLTEuNjUtMi40NDktMi41Mi0zLjYxNy00Mi4xNS01OS42NDEtODMuNS0xMjAuMDctMTI0LjMxLTE4MS4zMTJDMTAwNi45MSA1MTIuNTgyIDk2Ni44MDUgNDUwLjUyIDkyNy40NDUgMzg3LjY0MSA4ODguMDg2IDMyNC43ODkgODQ5LjQ4NCAyNjEuMDkgODExLjU0NyAxOTYuNTEyIDc3My41ODIgMTMxLjkyMiA3MzYuMzY3IDY2LjM5MDYgNjk5Ljg4MyAwTTE0NDguNDQgMzU2Mi40bDEwLjYxIDMzNy41NGMyLjIzIDcwLjE5IDE4LjEzIDE0MC4zMSA0NS4wMiAyMDcuMTkgMjYuNzEgNjYuNzIgNjQuNDEgMTMwLjYzIDExMC41MyAxODguNTUgNDYuMjkgNTguMDQgMTAxLjE2IDExMC40MiAxNjIuMjEgMTUzLjgyIDYxLjU4IDQzLjc4IDEyOS44IDc4LjU5IDIwMi4xMyAxMDEgNzMuMjkgMjIuNzUgMTQ0LjIzIDMwLjU3IDIwOS45OCAyNS4yIDY2LjY2LTUuNTIgMTI4LjA4LTI0LjczIDE4MC45My01Ni4xNyA1My41Ny0zMS45MyA5OC4zNS03Ni4zNyAxMzAuNzItMTMxLjYyIDMyLjc0LTU2LjA4IDUyLjYxLTEyMy4xMSA1NS45OC0xOTkuMDNsMTUuOTItMzY2LjA5em0yMTIxLjQ5IDI2MS42M2MtMy40NiAzMS4zMy0xNC4xIDU5LjM4LTMwLjM3IDgzLjM2LTE2LjEzIDIzLjkzLTM3LjczIDQzLjY1LTYzLjI5IDU4LjQ2LTI1LjMxIDE0Ljc0LTU0LjU4IDI0LjU1LTg2LjA4IDI4LjY3LTMxLjI2IDQuMTEtNjQuODUgMi42MS05OS4zMy01LjQxbC0yNDEuNzUtNTUuOTEtLjQgNS44Ny04MC44Ny0xOC43OC0yNi4xNiAzNzAuMDNjLTguODEgMTI1LjMyLTQ1Ljc3IDIzNC42Ni0xMDQuMTIgMzI0LjcyLTU2Ljg4IDg4LTEzMy45MSAxNTcuMjgtMjI0LjY2IDIwNS40Ny04OC40OSA0Ni45OS0xODkuOTggNzMuODYtMjk4Ljg4IDc4LjY5LTEwNi4zIDQuNzQtMjE5Ljk0LTExLjU2LTMzNi4yMS01MC42OC0xMTMuOTMtMzguMzMtMjIwLjYzLTk1LjM3LTMxNi42LTE2NS41MS05NC44Mi02OS4yNS0xNzkuOTEtMTUxLjgxLTI1MS43Ni0yNDIuNjktNzEuNTctOTAuNjEtMTMwLjU3LTE5MC4xOS0xNzIuOTQtMjk0LjA4LTQyLjY3LTEwNC40My02OS0yMTQuMTgtNzQuNjktMzI0LjU5bC0xNi42NC0zMjQuNDItNTAuMTUtMTEuNjItLjI5LTUuMS0xOTQuMjA5LTQ1LjAyYy0yMi4zMzYtNS4xMi00My44NTUtMTUuMTQtNjMuNzIyLTI4LjcyLTE5LjgzNi0xMy42Mi0zOC4wMjQtMzAuNzUtNTMuNjI1LTUwLjQ4LTE1LjYwNi0xOS42NC0yOC43MTUtNDEuODYtMzguNDYxLTY1LjM1LTkuNjU3LTIzLjYxLTE1Ljk4MS00OC42NC0xNy45NTMtNzMuODdMNTkzLjc2MiAxNTAwLjdsMTQ1LjAxNS0xNjQuMDggMzMuNDQyIDYxNi4wMmMzLjQ1MyA2My42IDE2Ljk5NiAxMjQuNzUgMzguMzc1IDE4MS4wNiAyMS40MDIgNTYuMDkgNTAuNjY0IDEwNy42IDg1Ljk5MiAxNTEuOTggMzUuMjk3IDQ0LjUxIDc2Ljc2OSA4Mi4xMiAxMjIuMzk0IDExMC4yMiA0NS45MSAyOC4yNSA5Ni4yMyA0Ny4wNSAxNDkuMTEgNTMuNjVsNjUuMjUgOC4yNmMtMjYuNTMgOC42NS01MC44MSAyMi4wNS03Mi4yMSAzOS40NC0yMS4zMiAxNy4yNC0zOS43MSAzOC40NC01NC42MiA2Mi44NS0xNC44OCAyNC4yNC0yNi4yMiA1MS43NS0zMy41NiA4MS42My03LjI0IDI5Ljc3LTEwLjU1IDYxLjk4LTkuMjIgOTYgMS43NyA0My44OSAxMC45NyA4Ni42NyAyNi4xNCAxMjYuNTQgMTUuMDggMzkuNzkgMzYuMTYgNzYuODMgNjEuNzcgMTA5LjI4IDI1LjU4IDMyLjUyIDU1Ljc1IDYwLjUyIDg5LjEgODIuMTcgMzMuNSAyMS43NyA3MC4xOSAzNy4xMSAxMDguNzkgNDQuMjZoLjIxLjE3bC4xNy4wNi4xOC4wMWMzOC45MiA3LjE1IDc2LjExIDUuMTIgMTEwLjA0LTQuNzQgMzQuMjItOS44OSA2NS4yLTI3LjggOTEuMy01Mi4yMiAyNi4zNC0yNC42NyA0Ny42NS01Ni4wMSA2Mi4zNi05Mi42MiAxNC45NC0zNi44MSAyMy4wNi03OC45NCAyMi44Mi0xMjQuODUtLjItMzUuNjktNS40Mi03MC45NC0xNC45OS0xMDQuNzYtOS41Ny0zMy45Ni0yMy40Ni02Ni4zNy00MC45Mi05Ni4yOS0xNy40Ni0yOS45Ni0zOC40OS01Ny4zMy02Mi4yNS04MS4xNy0yMy42Ni0yMy44Mi01MC00NC4wNC03OC4yNS01OS44M2w1Ny40IDcuMzJjMzkuNzkgNC45OSA3OC40OCAzLjM0IDExNS4yMy00LjMgMzcuMTUtNy42NiA3Mi40Mi0yMS4zNSAxMDQuOTQtNDAuMzkgMzIuODMtMTkuMTcgNjIuOTEtNDMuNzUgODkuNDctNzMuMDMgMjQuMTEtMjYuNjQgNDQuNzgtNTcuNjggNjIuMzYtOTEuNTEgMTQuODggMTEuNDEgMjkuNzMgMjIuNzUgNDQuNTIgMzMuNjlsLTIuMzggMjAyLjI1Yy0uNTIgNDcuMyA3LjY2IDkzLjE4IDIyLjg2IDEzNS44NiAxNS4yMiA0Mi41NyAzNy41IDgxLjk5IDY1LjI2IDExNi40NiAyNy44MSAzNC40NyA2MS4yMiA2My45NCA5OC42MSA4Ni41NiAzNy42MSAyMi43OCA3OS4yOSAzOC41MyAxMjMuNyA0NS4yOGw1NC41MiA4LjM2Yy0yMi43NiA1LjQ3LTQzLjk3IDE0LjYyLTYyLjg4IDI2Ljg4LTE4Ljg4IDEyLjEyLTM1LjUzIDI3LjMyLTQ5LjQyIDQ1LjA1LTEzLjggMTcuNjgtMjQuOTEgMzcuODgtMzIuNjkgNjAuMDctNy43NCAyMi4wOS0xMi4yMSA0Ni4yNS0xMi44NyA3MS45My0uODEgMzMuMDMgNC44MSA2NS41NCAxNS43MiA5Ni4wNyAxMC44NSAzMC41MSAyNy4wMyA1OS4wOCA0Ny4yMiA4NC4zMSAyMC4yMSAyNS4yOCA0NC42MyA0Ny4yMSA3MS45OCA2NC4zNiAyNy40NyAxNy4yOCA1Ny45NSAyOS43MyA5MC4zOCAzNiAzMi43MSA2LjI1IDY0LjE4IDUuNDkgOTMuMjctMS4xNSAyOS4zMi02LjcgNTYuMS0xOS40MyA3OS4xNS0zNy4yNSAyMy4xNS0xNy44NiA0Mi40NC00MC43OCA1Ni40NC02Ny43NiAxNC4wNy0yNy4xNCAyMi43Ny01OC40MSAyNC42My05Mi42IDEuMzktMjYuNTgtMS4zNC01Mi45NS03LjgxLTc4LjQtNi40My0yNS4zOC0xNi41Ni00OS44NC0yOS43OC03Mi41MS0xMy4xNy0yMi42OS0yOS40NC00My41OC00OC4xMi02MS45NS0xOC42Mi0xOC40LTM5LjczLTM0LjIzLTYyLjU5LTQ2Ljg2bDQ3LjYzIDcuMDljMjUuMjYgMy44NiA1MC4xNyA0Ljc2IDc0LjI4IDIuOTkgMjQuMjctMS44NSA0Ny44Mi02LjM2IDcwLjQ3LTEzLjM3IDIyLjYtNy4wOSA0NC4yNi0xNi42MiA2NC41NC0yOC40OCAyMC40Mi0xMS45NSAzOS40MS0yNi4xNyA1Ni44NC00Mi40LTUuMzktMy4wOS0xMC41OC02LjQ2LTE1Ljg2LTkuNTMgNi43My0uMTYgMTMuNC0uMjYgMjAuMS0uNTUgMjQuMzMgMTQuNDcgNDcuNjggMjguMTggNzEuNjcgNDIuMzNsLTUuOTggOTAuMDFjLTIuNDQgMzUuNzYgMi42NCA3MC44NiAxMy44MSAxMDMuNzIgMTEuMDcgMzIuODYgMjguMzMgNjMuNTcgNTAuNCA5MC42OCAyMi4xMSAyNy4wMyA0OS4wMiA1MC40OCA3OS42NSA2OC42OSAzMC42NSAxOC4zIDY1LjExIDMxLjM4IDEwMi4wMyAzNy42NWw0NS4yMiA3LjQ3Yy0xOS4xNyAzLjYxLTM3LjE4IDEwLjExLTUzLjQ1IDE5LTE2LjI4IDguOTEtMzAuODEgMjAuMTQtNDMuMTYgMzMuNDktMTIuMyAxMy4yOS0yMi4zMyAyOC41Ny0yOS43MyA0NS40Ny03LjQgMTYuODYtMTIuMDcgMzUuMzUtMTMuNjMgNTUuMDgtMi4wMyAyNS41MiAxLjQ4IDUwLjc5IDkuNDggNzQuNTggOC4wMSAyMy43NSAyMC41MSA0Ni4xNCAzNi42MyA2NS45NyAxNi4xMyAxOS44OSAzNS44NSAzNy4xOSA1OC4zIDUwLjg3IDIyLjUxIDEzLjc3IDQ3LjY1IDIzLjg1IDc0Ljc0IDI5LjA2IDI3LjA2IDUuMTggNTMuNDMgNSA3Ny45Ni4yOCAyNC41Ny00Ljg1IDQ3LjI1LTE0LjM4IDY2Ljk0LTI3LjcgMTkuNzgtMTMuNDUgMzYuNC0zMC43OCA0OC43OS01MS4zMSAxMi40MS0yMC41OSAyMC41My00NC4zIDIzLTcwLjM5IDItMjAuMjUuNTItNDAuMy00LjA2LTU5LjcyLTQuNS0xOS4zOS0xMi4wNC0zOC4xNC0yMi4xNi01NS42MS0xMC4xOC0xNy41MS0yMi44OS0zMy42OC0zNy42OC00OC4wMi0xNC43LTE0LjQyLTMxLjUyLTI2LjktNTAuMDMtMzYuOTJsMzguNjEgNi41NWMyMi42MiAzLjc2IDQ0Ljc4IDQuOTIgNjYuMzMgMy42MyAyMS42My0xLjMyIDQyLjQ5LTUuMDEgNjIuNDctMTAuOTEgMTkuODctNS45NyAzOC44Ny0xNC4wOSA1Ni40NC0yNC4yNyA1LjQ4LTMuMTkgMTAuNDctNi43NyAxNS42Ni0xMC4zM2wuNzYuNDRjNy42MyAzLjgzIDE1LjQgNy43IDIzLjAzIDExLjQzIDE1Ljk1IDcuODcgMzEuODEgMTUuNjYgNDcuNDcgMjMuMyAxNS42NyA3Ljc0IDMxLjIxIDE1LjI3IDQ2LjU1IDIyLjY2bC01My42MiA0ODQuNzkiIHRyYW5zZm9ybT0ibWF0cml4KC4xMzMzMyAwIDAgLS4xMzMzMyAwIDY1My4zMzMpIiBjbGFzcz0ic3ZnU2hhcGUgY29sb3IwMDAwMDAtNiBzZWxlY3RhYmxlIj48L3BhdGg+PC9zdmc+PC9nPjwvc3ZnPg==\") !important;",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": true
+        },
+        "submenu": [
+          {
+            "id": "toplevel_page_pmpro-dashboard-admin.php?page=pmpro-dashboard",
+            "custom": false,
+            "name": "Dashboard",
+            "url": "admin.php?page=pmpro-dashboard",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_pmpro-dashboard-admin.php?page=pmpro-memberslist",
+            "custom": false,
+            "name": "Members",
+            "url": "admin.php?page=pmpro-memberslist",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_pmpro-dashboard-admin.php?page=pmpro-orders",
+            "custom": false,
+            "name": "Orders",
+            "url": "admin.php?page=pmpro-orders",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_pmpro-dashboard-admin.php?page=pmpro-subscriptions",
+            "custom": false,
+            "name": "Subscriptions",
+            "url": "admin.php?page=pmpro-subscriptions",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_pmpro-dashboard-admin.php?page=pmpro-reports",
+            "custom": false,
+            "name": "Reports",
+            "url": "admin.php?page=pmpro-reports",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_pmpro-dashboard-admin.php?page=pmpro-membershiplevels",
+            "custom": false,
+            "name": "Settings",
+            "url": "admin.php?page=pmpro-membershiplevels",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_pmpro-dashboard-admin.php?page=pmpro-addons",
+            "custom": false,
+            "name": "Add Ons",
+            "url": "admin.php?page=pmpro-addons",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_pmpro-dashboard-admin.php?page=pmpro-license",
+            "custom": false,
+            "name": "License",
+            "url": "admin.php?page=pmpro-license",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          }
+        ],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "separator-1",
+        "custom": false,
+        "name": "",
+        "url": "",
+        "imageClasses": [],
+        "iconStyles": "",
+        "target": "",
+        "type": "separator",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "menu-appearance",
+        "custom": false,
+        "name": "Appearance",
+        "url": "themes.php",
+        "imageClasses": [
+          "wp-menu-image",
+          "dashicons-before",
+          "dashicons-admin-appearance"
+        ],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": true
+        },
+        "submenu": [
+          {
+            "id": "menu-appearance-themes.php",
+            "custom": false,
+            "name": "Themes",
+            "url": "themes.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-appearance-site-editor.php",
+            "custom": false,
+            "name": "Design",
+            "url": "site-editor.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "name": "Customize",
+            "url": "customize.php?return=%2Fwp-admin%2Fadmin.php%3Fpage%3Duipx-menucreator",
+            "target": null,
+            "active": false,
+            "id": "menu-appearance-customize.php?return=%2Fwp-admin%2Fadmin.php%3Fpage%3Duipx-menucreator",
+            "notifications": null,
+            "sub_id": null,
+            "og_node": {},
+            "submenu": [],
+            "open": false,
+            "settings": {
+              "hidden": false,
+              "open_new": false
+            }
+          },
+          {
+            "id": "menu-appearance-widgets.php",
+            "custom": false,
+            "name": "Widgets",
+            "url": "widgets.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-appearance-font-library.php",
+            "custom": false,
+            "name": "Fonts",
+            "url": "font-library.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-appearance-nav-menus.php",
+            "custom": false,
+            "name": "Menus",
+            "url": "nav-menus.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-appearance-theme-editor.php",
+            "custom": false,
+            "name": "Theme File Editor",
+            "url": "theme-editor.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          }
+        ],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "toplevel_page_plugin-manager",
+        "custom": false,
+        "name": "Plugins",
+        "url": "admin.php?page=plugin-manager",
+        "imageClasses": [
+          "wp-menu-image",
+          "dashicons-before",
+          "dashicons-admin-plugins"
+        ],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": true
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "menu-users",
+        "custom": false,
+        "name": "Users",
+        "url": "users.php",
+        "imageClasses": [
+          "wp-menu-image",
+          "dashicons-before",
+          "dashicons-admin-users"
+        ],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": true
+        },
+        "submenu": [
+          {
+            "id": "menu-users-users.php",
+            "custom": false,
+            "name": "All Users",
+            "url": "users.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-users-user-new.php",
+            "custom": false,
+            "name": "Add User",
+            "url": "user-new.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-users-profile.php",
+            "custom": false,
+            "name": "Profile",
+            "url": "profile.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          }
+        ],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "toplevel_page_greenshift_dashboard",
+        "custom": false,
+        "name": "GreenShift",
+        "url": "admin.php?page=greenshift_dashboard",
+        "imageClasses": [
+          "wp-menu-image",
+          "dashicons-before"
+        ],
+        "iconStyles": "background-image: url(\"https://tutorpress.local/wp-content/plugins/greenshift-animation-and-page-builder-blocks/libs/gspbLogo.svg\");height:1.2rem;background-size:contain;",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": true
+        },
+        "submenu": [
+          {
+            "id": "toplevel_page_greenshift_dashboard-admin.php?page=greenshift_dashboard",
+            "custom": false,
+            "name": "GreenShift",
+            "url": "admin.php?page=greenshift_dashboard",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_greenshift_dashboard-admin.php?page=greenshift",
+            "custom": false,
+            "name": "Settings",
+            "url": "admin.php?page=greenshift",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_greenshift_dashboard-admin.php?page=greenshift_dashboard-addons",
+            "custom": false,
+            "name": "Addons",
+            "url": "admin.php?page=greenshift_dashboard-addons",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_greenshift_dashboard-admin.php?page=greenshift_upgrade",
+            "custom": false,
+            "name": "Upgrade",
+            "url": "admin.php?page=greenshift_upgrade",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_greenshift_dashboard-admin.php?page=greenshift_contact",
+            "custom": false,
+            "name": "Contact Us",
+            "url": "admin.php?page=greenshift_contact",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_greenshift_dashboard-admin.php?page=greenshift_import",
+            "custom": false,
+            "name": "Import/Export",
+            "url": "admin.php?page=greenshift_import",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_greenshift_dashboard-admin.php?page=greenshift_block_manager",
+            "custom": false,
+            "name": "Block Manager",
+            "url": "admin.php?page=greenshift_block_manager",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_greenshift_dashboard-admin.php?page=greenshift_stylebook",
+            "custom": false,
+            "name": "Stylebook",
+            "url": "admin.php?page=greenshift_stylebook",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          }
+        ],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "menu-tools",
+        "custom": false,
+        "name": "Tools",
+        "url": "tools.php",
+        "imageClasses": [
+          "wp-menu-image",
+          "dashicons-before",
+          "dashicons-admin-tools"
+        ],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": true
+        },
+        "submenu": [
+          {
+            "id": "menu-tools-tools.php",
+            "custom": false,
+            "name": "Available Tools",
+            "url": "tools.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-tools-import.php",
+            "custom": false,
+            "name": "Import",
+            "url": "import.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-tools-export.php",
+            "custom": false,
+            "name": "Export",
+            "url": "export.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-tools-site-health.php",
+            "custom": false,
+            "name": "Site Health",
+            "url": "site-health.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-tools-export-personal-data.php",
+            "custom": false,
+            "name": "Export Personal Data",
+            "url": "export-personal-data.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-tools-erase-personal-data.php",
+            "custom": false,
+            "name": "Erase Personal Data",
+            "url": "erase-personal-data.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-tools-tools.php?page=plugin-check",
+            "custom": false,
+            "name": "Plugin Check",
+            "url": "tools.php?page=plugin-check",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-tools-tools.php?page=plugin-check-namer",
+            "custom": false,
+            "name": "Plugin Check Namer",
+            "url": "tools.php?page=plugin-check-namer",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-tools-tools.php?page=plugin-check-svn-checker",
+            "custom": false,
+            "name": "Plugin Check SVN",
+            "url": "tools.php?page=plugin-check-svn-checker",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-tools-tools.php?page=action-scheduler",
+            "custom": false,
+            "name": "Scheduled Actions",
+            "url": "tools.php?page=action-scheduler",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          }
+        ],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "menu-settings",
+        "custom": false,
+        "name": "Settings",
+        "url": "options-general.php",
+        "imageClasses": [
+          "wp-menu-image",
+          "dashicons-before",
+          "dashicons-admin-settings"
+        ],
+        "iconStyles": "",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": true
+        },
+        "submenu": [
+          {
+            "id": "menu-settings-options-general.php",
+            "custom": false,
+            "name": "General",
+            "url": "options-general.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-settings-options-connectors.php",
+            "custom": false,
+            "name": "Connectors",
+            "url": "options-connectors.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-settings-options-writing.php",
+            "custom": false,
+            "name": "Writing",
+            "url": "options-writing.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-settings-options-reading.php",
+            "custom": false,
+            "name": "Reading",
+            "url": "options-reading.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-settings-options-discussion.php",
+            "custom": false,
+            "name": "Discussion",
+            "url": "options-discussion.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-settings-options-media.php",
+            "custom": false,
+            "name": "Media",
+            "url": "options-media.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-settings-options-permalink.php",
+            "custom": false,
+            "name": "Permalinks",
+            "url": "options-permalink.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-settings-options-privacy.php",
+            "custom": false,
+            "name": "Privacy",
+            "url": "options-privacy.php",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-settings-options-general.php?page=plugin-check-settings",
+            "custom": false,
+            "name": "Plugin Check",
+            "url": "options-general.php?page=plugin-check-settings",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "menu-settings-options-general.php?page=h5p_settings",
+            "custom": false,
+            "name": "H5P",
+            "url": "options-general.php?page=h5p_settings",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          }
+        ],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "separator-2",
+        "custom": false,
+        "name": "",
+        "url": "",
+        "imageClasses": [],
+        "iconStyles": "",
+        "target": "",
+        "type": "separator",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": false
+        },
+        "submenu": [],
+        "active": false,
+        "open": false
+      },
+      {
+        "id": "toplevel_page_uipx-settings",
+        "custom": false,
+        "name": "uiXpress",
+        "url": "admin.php?page=uipx-settings",
+        "imageClasses": [
+          "wp-menu-image",
+          "dashicons-before"
+        ],
+        "iconStyles": "background-image: url(\"https://tutorpress.local/wp-content/plugins/uixpress/assets/icons/uixpress-logo.svg\");height:1.2rem;background-size:contain;",
+        "target": "",
+        "type": "",
+        "settings": {
+          "name": "",
+          "icon": "",
+          "open_new": false,
+          "hidden": true
+        },
+        "submenu": [
+          {
+            "id": "toplevel_page_uipx-settings-admin.php?page=uipx-settings",
+            "custom": false,
+            "name": "Settings",
+            "url": "admin.php?page=uipx-settings",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_uipx-settings-admin.php?page=uipx-menucreator",
+            "custom": false,
+            "name": "Menu Creator",
+            "url": "admin.php?page=uipx-menucreator",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          },
+          {
+            "id": "toplevel_page_uipx-settings-admin.php?page=uixpress-admin-notices",
+            "custom": false,
+            "name": "Admin Notices",
+            "url": "admin.php?page=uixpress-admin-notices",
+            "imageClasses": [],
+            "iconStyles": "",
+            "target": "",
+            "type": "",
+            "settings": {
+              "name": "",
+              "icon": "",
+              "open_new": false,
+              "hidden": false
+            },
+            "submenu": [],
+            "active": false,
+            "open": false
+          }
+        ],
+        "active": false,
+        "open": false
+      }
+    ],
+    "menu_settings": {
+      "applies_to_everyone": false,
+      "includes": [
+        {
+          "id": 0,
+          "value": "tutor_instructor",
+          "type": "role"
+        }
+      ],
+      "excludes": []
+    }
+  },
+  "menu_title": "Instructor Backend Menu"
+}
