@@ -1,6 +1,5 @@
 {
   "uixpress_settings": {
-    "layout": "rounded",
     "hide_language_selector": false,
     "disable_search": false,
     "style_login": false,
@@ -104,106 +103,6 @@
         "rest_base": "wp/v2/course-bundle"
       }
     ],
-    "base_theme_scale": [
-      {
-        "step": "0",
-        "color": "#ffffff"
-      },
-      {
-        "step": "50",
-        "color": "#fafafa"
-      },
-      {
-        "step": "100",
-        "color": "#f4f4f5"
-      },
-      {
-        "step": "200",
-        "color": "#e4e4e7"
-      },
-      {
-        "step": "300",
-        "color": "#d4d4d8"
-      },
-      {
-        "step": "400",
-        "color": "#a1a1aa"
-      },
-      {
-        "step": "500",
-        "color": "#71717a"
-      },
-      {
-        "step": "600",
-        "color": "#52525b"
-      },
-      {
-        "step": "700",
-        "color": "#3f3f46"
-      },
-      {
-        "step": "800",
-        "color": "#27272a"
-      },
-      {
-        "step": "900",
-        "color": "#18181b"
-      },
-      {
-        "step": "950",
-        "color": "#09090b"
-      }
-    ],
-    "accent_theme_scale": [
-      {
-        "step": "50",
-        "color": "#eef2ff"
-      },
-      {
-        "step": "100",
-        "color": "#e0e7ff"
-      },
-      {
-        "step": "200",
-        "color": "#c7d2fe"
-      },
-      {
-        "step": "300",
-        "color": "#a5b4fc"
-      },
-      {
-        "step": "400",
-        "color": "#818cf8"
-      },
-      {
-        "step": "500",
-        "color": "#6366f1"
-      },
-      {
-        "step": "600",
-        "color": "#4f46e5"
-      },
-      {
-        "step": "700",
-        "color": "#4338ca"
-      },
-      {
-        "step": "800",
-        "color": "#3730a3"
-      },
-      {
-        "step": "900",
-        "color": "#312e81"
-      },
-      {
-        "step": "950",
-        "color": "#1e1b4b"
-      }
-    ],
-    "base_theme_color": "#71717a",
-    "accent_theme_color": "#6366f1",
-    "base_theme_preset": "zinc",
-    "accent_theme_preset": "indigo",
     "hide_screenoptions": false,
     "hide_help_toggle": false,
     "force_global_theme": "off",
@@ -257,14 +156,7 @@
     "hide_toolbar": false,
     "dark_chrome": false,
     "external_stylesheets": [],
-    "login_redirect_roles": [
-      {
-        "role": "tutor_instructor",
-        "url": "admin.php?page=tutor"
-      }
-    ],
     "disable_frontend_seo": true,
-    "admin_framework_route_slug": "instructor-backend",
     "use_modern_comments_page": false,
     "enable_role_editor": false,
     "enable_activity_logger": false,
