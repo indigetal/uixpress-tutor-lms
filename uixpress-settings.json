@@ -2,7 +2,7 @@
   "uixpress_settings": {
     "hide_language_selector": false,
     "disable_search": false,
-    "style_login": false,
+    "style_login": true,
     "enable_turnstyle": false,
     "disable_theme": [
       {
@@ -104,8 +104,7 @@
       }
     ],
     "hide_screenoptions": false,
-    "hide_help_toggle": false,
-    "force_global_theme": "off",
+    "hide_help_toggle": true,
     "submenu_style": "hover",
     "enable_admin_menu_search": false,
     "text_replacements": [],
@@ -115,7 +114,7 @@
     "use_custom_dashboard": true,
     "enable_uixpress_analytics": false,
     "use_modern_media_page": true,
-    "enable_svg_uploads": true,
+    "enable_svg_uploads": false,
     "enable_font_uploads": false,
     "dashboard_post_types": [
       {
@@ -154,12 +153,14 @@
     ],
     "use_modern_users_page": false,
     "hide_toolbar": false,
-    "dark_chrome": false,
     "external_stylesheets": [],
+    "login_redirect_roles": [],
     "disable_frontend_seo": true,
     "use_modern_comments_page": false,
+    "enable_database_explorer": false,
     "enable_role_editor": false,
     "enable_activity_logger": false,
-    "enable_database_explorer": false
+    "hide_admin_menu_icons": false,
+    "hide_notifications_panel": false
   }
 }

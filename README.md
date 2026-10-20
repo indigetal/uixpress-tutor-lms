@@ -1,5 +1,7 @@
 # uiXpress for Tutor LMS
 
+Want to turn the WordPress backend into a modern, dedicated instructor dashboard with built-in theme options and many other customization opportunities? One that is only applied to the instructor role giving them safe access to backend pages not available in the frontend, but removing unsafe and irrelevant backend pages for a nicer UX? This free uiXpress import does just that!
+
 The repository has two files:
 
 | File                           | What it is                   |
@@ -19,11 +21,11 @@ The menu applies to the `tutor_instructor` role only.
 
 **Libraries.** Content Bank, Media Library, and H5P Content.
 
-**Account.** Analytics, Profile, Withdrawals, and Settings.
+**Account.** Analytics, Profile, Reviews, Withdrawals, and Settings.
 
 Courses, Announcements, Quiz Attempts, and Content Bank already limit their lists to the current instructor. Assignments, Q&A, Google Meet, and Zoom are included with known gaps on individual records. Those gaps are described under TutorPress below.
 
-Certificates, Analytics, Profile, Withdrawals, and Settings are Tutor frontend dashboard screens. Their links use the dashboard slug `dashboard` in the export file (`/dashboard/analytics/`, `/dashboard/account/profile/`, and so on). If the site uses another dashboard slug, update those four links in **uiXpress → Menu Creator → Instructor Backend Menu** after import.
+Certificates, Analytics, Profile, Reviews, Withdrawals, and Settings are Tutor frontend dashboard screens. Their links use the dashboard slug `dashboard` in the export file (`/dashboard/analytics/`, `/dashboard/account/profile/`, and so on). If the site uses another dashboard slug, update those four links in **uiXpress → Menu Creator → Instructor Backend Menu** after import.
 
 Icons on the Tutor menu items are Tutor LMS icons, stored in each item as an SVG data URI.
 
@@ -36,15 +38,15 @@ The export hides admin menu items not relevant to the instructor backend. Howeve
 ## Download the import files
 
 1. Open [indigetal/uixpress-tutor-lms](https://github.com/indigetal/uixpress-tutor-lms).
-2. Open `uixpress-settings.json`. On the file page, use the download icon next to **Raw**. Save the file as `uixpress-settings.json`.
-3. Open `Instructor Backend Menu.json` and download it the same way. Keep the space in the file name.
+2. Open `uixpress-settings.json`. On the file page, use the download icon next to **Raw**.
+3. Open `Instructor Backend Menu.json` and download it the same way.
 
 You can also download both files at once. On the repository page, choose **Code**, then **Download ZIP**, and use the two JSON files inside the archive.
 
 Direct links for the files on `main`:
 
-- [uixpress-settings.json](https://github.com/indigetal/uixpress-tutor-lms/raw/refs/heads/main/uixpress-settings.json)
-- [Instructor Backend Menu.json](https://github.com/indigetal/uixpress-tutor-lms/raw/refs/heads/main/Instructor%20Backend%20Menu.json)
+- [uixpress-settings.json](https://github.com/indigetal/uixpress-tutor-lms/blob/main/uixpress-settings.json)
+- [Instructor Backend Menu.json](https://github.com/indigetal/uixpress-tutor-lms/blob/main/Instructor%20Backend%20Menu.json)
 
 ## Import the settings
 
@@ -63,7 +65,7 @@ Direct links for the files on `main`:
 
 ## TutorPress
 
-[TutorPress](https://github.com/indigetal/tutorpress) will fix instructor-access issues in Tutor LMS, allowing for more Tutor LMS backend pages to be safely added to the instructor backend menu. The export does not include these additional menu items for security reasons. After TutorPress provides the checks, an administrator adds the items in Menu Creator.
+We have notified Tutor LMS of instructor-access issues that we have discovered. If no fixes are made in a future update, the issues will be resolved in [TutorPress](https://github.com/indigetal/tutorpress). However, the export files will not include these additional menu items for security reasons. Even after TutorPress provides the checks, an administrator will still have to manually add the fixed pages to their uiXpress menu configuration.
 
 Several pages already on the menu, including Assignments, Q&A, Google Meet, and Zoom still need additional permissions work but their lists are already limited to the instructor. TutorPress will complete those checks.
 
